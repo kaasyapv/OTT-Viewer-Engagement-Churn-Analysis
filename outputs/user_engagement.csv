@@ -1,0 +1,2501 @@
+user_id,subscription_type,country,device,sessions,watch_hours,avg_minutes_per_session,active_days
+1,Basic,United States,Smartphone,109,99.1,54.6,69
+2,Premium,Canada,Tablet,11,9.4,51.5,8
+3,Standard,United Kingdom,Smart TV,25,28.1,67.6,18
+4,Standard,Australia,Laptop,72,66.0,55.0,44
+5,Basic,Germany,Smartphone,17,14.8,52.2,11
+6,Premium,France,Smart TV,85,86.1,60.8,50
+7,Standard,Brazil,Tablet,19,18.8,59.3,11
+8,Basic,Mexico,Laptop,6,6.3,62.7,6
+9,Standard,Spain,Smartphone,24,14.9,37.3,17
+10,Premium,Italy,Smart TV,20,15.8,47.5,15
+11,Basic,United States,Smartphone,48,44.3,55.3,27
+12,Premium,Canada,Tablet,23,23.7,61.9,14
+13,Standard,United Kingdom,Laptop,20,17.1,51.1,13
+14,Basic,Australia,Smartphone,10,9.3,55.6,9
+15,Standard,Germany,Smart TV,13,12.9,59.5,10
+16,Premium,France,Tablet,83,75.8,54.8,61
+17,Basic,Brazil,Laptop,35,34.1,58.4,28
+18,Standard,Mexico,Smartphone,44,50.2,68.4,31
+19,Premium,Spain,Smart TV,27,20.2,44.9,18
+20,Basic,Italy,Tablet,11,11.7,64.0,8
+21,Premium,United States,Laptop,7,5.2,44.9,6
+22,Basic,Canada,Smartphone,15,12.8,51.0,12
+23,Standard,United Kingdom,Smart TV,59,56.9,57.8,44
+24,Standard,Australia,Tablet,69,57.5,50.0,47
+25,Basic,Germany,Laptop,26,16.6,38.3,18
+26,Premium,France,Smartphone,112,104.6,56.0,77
+27,Basic,Brazil,Smart TV,23,15.9,41.4,16
+28,Standard,Mexico,Tablet,71,65.1,55.0,46
+29,Premium,Spain,Laptop,15,10.8,43.3,9
+30,Basic,Italy,Smartphone,17,17.1,60.2,11
+31,Premium,United States,Smart TV,14,11.5,49.4,11
+32,Basic,Canada,Tablet,16,16.6,62.1,10
+33,Standard,United Kingdom,Laptop,43,44.3,61.9,31
+34,Standard,Australia,Smartphone,48,46.0,57.5,33
+35,Basic,Germany,Smart TV,24,21.5,53.7,14
+36,Premium,France,Tablet,64,57.0,53.5,38
+37,Basic,Brazil,Laptop,22,20.5,55.9,16
+38,Standard,Mexico,Smartphone,23,23.7,61.9,18
+39,Premium,Spain,Smart TV,27,23.3,51.7,18
+40,Basic,Italy,Tablet,18,13.8,46.2,14
+41,Premium,United States,Laptop,29,23.5,48.7,23
+42,Basic,Canada,Smartphone,77,75.8,59.0,54
+43,Standard,United Kingdom,Smart TV,116,107.2,55.4,78
+44,Standard,Australia,Tablet,62,52.7,51.0,40
+45,Basic,Germany,Laptop,33,32.0,58.2,22
+46,Premium,France,Smartphone,22,19.9,54.1,13
+47,Basic,Brazil,Smart TV,69,57.5,50.0,44
+48,Standard,Mexico,Tablet,50,51.6,61.9,34
+49,Premium,Spain,Laptop,53,50.6,57.3,35
+50,Basic,Italy,Smartphone,19,17.0,53.8,11
+51,Premium,United States,Smart TV,11,9.4,51.5,8
+52,Basic,Canada,Tablet,25,20.3,48.8,16
+53,Standard,United Kingdom,Laptop,61,50.5,49.6,41
+54,Standard,Australia,Smartphone,56,57.2,61.3,41
+55,Basic,Germany,Smart TV,32,29.6,55.5,22
+56,Premium,France,Tablet,111,103.2,55.8,73
+57,Basic,Brazil,Laptop,35,33.9,58.1,25
+58,Standard,Mexico,Smartphone,17,17.5,61.8,14
+59,Premium,Spain,Smart TV,6,4.3,42.8,4
+60,Basic,Italy,Tablet,14,12.7,54.3,6
+61,Premium,United States,Laptop,38,29.4,46.3,27
+62,Basic,Canada,Smartphone,27,20.8,46.1,18
+63,Standard,United Kingdom,Smart TV,97,92.0,56.9,59
+64,Standard,Australia,Tablet,79,64.0,48.6,52
+65,Basic,Germany,Laptop,22,16.1,43.8,15
+66,Premium,France,Smartphone,109,104.6,57.6,70
+67,Basic,Brazil,Smart TV,63,60.3,57.4,46
+68,Standard,Mexico,Tablet,40,35.0,52.5,30
+69,Premium,Spain,Laptop,45,38.8,51.7,29
+70,Basic,Italy,Smartphone,19,14.4,45.4,12
+71,Basic,United States,Smartphone,97,90.1,55.7,68
+72,Basic,Canada,Smartphone,53,40.4,45.7,35
+73,Standard,United Kingdom,Laptop,9,8.6,57.4,6
+74,Premium,Australia,Smartphone,12,14.8,73.8,12
+75,Basic,Germany,Laptop,64,61.4,57.5,42
+76,Basic,France,Laptop,25,20.7,49.6,13
+77,Premium,Brazil,Smartphone,7,4.7,40.3,5
+78,Standard,Mexico,Tablet,45,43.4,57.8,28
+79,Standard,Spain,Laptop,44,40.9,55.8,31
+80,Basic,Italy,Tablet,26,22.2,51.2,19
+81,Premium,United States,Tablet,13,12.0,55.3,11
+82,Standard,Canada,Laptop,21,16.6,47.3,13
+83,Basic,United Kingdom,Smartphone,13,17.4,80.5,7
+84,Standard,Australia,Smartphone,25,24.1,57.8,14
+85,Premium,Germany,Laptop,12,11.6,57.9,11
+86,Basic,France,Smartphone,85,79.9,56.4,57
+87,Premium,Brazil,Smart TV,48,43.0,53.8,35
+88,Standard,Mexico,Tablet,38,38.0,60.0,24
+89,Basic,Spain,Smartphone,52,55.1,63.6,34
+90,Standard,Italy,Smartphone,36,32.5,54.2,24
+91,Premium,United States,Tablet,65,54.9,50.7,42
+92,Basic,Canada,Smart TV,105,98.4,56.2,68
+93,Standard,United Kingdom,Smartphone,32,26.4,49.6,20
+94,Premium,Australia,Smartphone,63,47.5,45.2,44
+95,Basic,Germany,Laptop,77,63.0,49.1,59
+96,Premium,France,Laptop,39,34.2,52.6,27
+97,Basic,Brazil,Tablet,62,57.4,55.5,38
+98,Standard,Mexico,Tablet,34,26.9,47.4,22
+99,Standard,Spain,Tablet,26,21.6,49.7,19
+100,Basic,Italy,Laptop,52,50.4,58.1,34
+101,Premium,United States,Tablet,8,6.7,50.5,6
+102,Basic,Canada,Tablet,80,81.2,60.9,52
+103,Standard,United Kingdom,Laptop,7,7.3,62.4,5
+104,Premium,Australia,Laptop,60,53.6,53.6,39
+105,Basic,Germany,Laptop,62,57.2,55.4,42
+106,Premium,France,Tablet,13,13.2,60.9,9
+107,Basic,Brazil,Smart TV,116,114.4,59.2,67
+108,Standard,Mexico,Smart TV,51,47.4,55.7,33
+109,Standard,Spain,Tablet,32,34.5,64.8,21
+110,Basic,Italy,Laptop,29,34.8,72.0,22
+111,Premium,United States,Tablet,90,81.2,54.1,60
+112,Basic,Canada,Laptop,98,82.3,50.4,65
+113,Standard,United Kingdom,Tablet,5,3.9,46.4,3
+114,Premium,Australia,Smartphone,18,16.6,55.2,14
+115,Basic,Germany,Laptop,84,71.3,50.9,57
+116,Premium,France,Smart TV,43,44.0,61.4,30
+117,Basic,Brazil,Tablet,23,19.9,51.8,16
+118,Standard,Mexico,Smartphone,82,81.7,59.7,50
+119,Standard,Spain,Smartphone,45,44.4,59.2,35
+120,Basic,Italy,Smart TV,62,56.1,54.3,40
+121,Premium,United States,Smart TV,22,16.0,43.6,16
+122,Basic,Canada,Smart TV,49,44.5,54.4,31
+123,Standard,United Kingdom,Smartphone,53,50.4,57.0,37
+124,Premium,Australia,Laptop,10,8.1,48.4,7
+125,Basic,Germany,Smartphone,83,75.8,54.8,52
+126,Premium,France,Laptop,74,63.6,51.6,49
+127,Basic,Brazil,Smartphone,42,37.7,53.9,25
+128,Standard,Mexico,Smartphone,50,39.3,47.2,33
+129,Standard,Spain,Smart TV,45,34.1,45.5,28
+130,Basic,Italy,Tablet,58,59.9,62.0,37
+131,Premium,United States,Laptop,7,7.3,63.0,5
+132,Basic,Canada,Smart TV,77,62.0,48.3,53
+133,Standard,United Kingdom,Smart TV,9,10.1,67.0,6
+134,Premium,Australia,Tablet,21,19.6,56.0,13
+135,Basic,Germany,Smart TV,77,69.8,54.4,45
+136,Premium,France,Smart TV,19,15.4,48.6,10
+137,Basic,Brazil,Laptop,80,70.3,52.8,56
+138,Standard,Mexico,Laptop,57,53.5,56.3,39
+139,Standard,Spain,Smartphone,15,12.9,51.5,12
+140,Basic,Italy,Smartphone,57,48.5,51.0,40
+141,Premium,United States,Smartphone,31,30.2,58.4,21
+142,Basic,Canada,Smart TV,52,46.8,54.0,38
+143,Standard,United Kingdom,Tablet,63,64.3,61.3,45
+144,Premium,Australia,Smart TV,8,7.2,54.1,6
+145,Basic,Germany,Laptop,22,21.1,57.5,17
+146,Basic,France,Tablet,20,18.1,54.2,14
+147,Basic,Brazil,Laptop,25,20.0,48.0,15
+148,Standard,Mexico,Smartphone,11,12.2,66.4,9
+149,Premium,Spain,Smart TV,50,41.3,49.6,33
+150,Basic,Italy,Laptop,24,19.2,48.0,13
+151,Basic,United States,Laptop,10,5.4,32.3,6
+152,Premium,Canada,Tablet,45,42.5,56.7,28
+153,Standard,United Kingdom,Smartphone,44,39.6,54.0,28
+154,Standard,Australia,Laptop,12,10.7,53.6,7
+155,Basic,Germany,Tablet,27,28.4,63.1,20
+156,Premium,France,Smartphone,78,73.0,56.2,57
+157,Standard,Brazil,Laptop,35,35.0,59.9,20
+158,Basic,Mexico,Smartphone,59,51.1,52.0,39
+159,Standard,Spain,Smart TV,56,54.0,57.8,32
+160,Premium,Italy,Smartphone,42,39.4,56.2,27
+161,Basic,United States,Tablet,46,42.2,55.0,30
+162,Premium,Canada,Laptop,75,72.1,57.7,54
+163,Standard,United Kingdom,Laptop,63,48.4,46.1,41
+164,Basic,Australia,Tablet,29,29.5,61.0,19
+165,Standard,Germany,Tablet,96,85.2,53.3,62
+166,Premium,France,Laptop,54,43.6,48.5,30
+167,Basic,Brazil,Smartphone,79,67.4,51.2,55
+168,Standard,Mexico,Tablet,39,31.7,48.7,26
+169,Premium,Spain,Tablet,7,3.6,31.3,6
+170,Basic,Italy,Laptop,42,36.0,51.5,33
+171,Premium,United States,Tablet,40,43.8,65.8,26
+172,Basic,Canada,Smartphone,13,10.8,49.6,11
+173,Standard,United Kingdom,Smartphone,78,65.3,50.3,55
+174,Standard,Australia,Tablet,12,8.8,44.3,9
+175,Basic,Germany,Laptop,67,62.6,56.1,40
+176,Premium,France,Smart TV,71,63.9,54.0,45
+177,Basic,Brazil,Smartphone,21,19.0,54.3,14
+178,Standard,Mexico,Laptop,23,21.1,55.0,14
+179,Premium,Spain,Tablet,48,49.2,61.5,33
+180,Basic,Italy,Laptop,30,28.2,56.4,20
+181,Premium,United States,Smartphone,75,63.1,50.5,50
+182,Basic,Canada,Laptop,77,69.7,54.3,52
+183,Standard,United Kingdom,Tablet,15,16.9,67.5,9
+184,Standard,Australia,Laptop,19,22.7,71.8,13
+185,Basic,Germany,Tablet,92,71.7,46.7,62
+186,Premium,France,Smart TV,23,23.0,60.0,13
+187,Basic,Brazil,Laptop,86,79.8,55.7,55
+188,Standard,Mexico,Smart TV,76,67.9,53.6,47
+189,Premium,Spain,Smart TV,37,35.8,58.0,25
+190,Basic,Italy,Tablet,10,8.8,52.5,8
+191,Premium,United States,Laptop,42,34.5,49.2,30
+192,Basic,Canada,Smartphone,91,76.5,50.4,62
+193,Standard,United Kingdom,Laptop,43,45.4,63.3,28
+194,Standard,Australia,Laptop,69,60.6,52.7,47
+195,Basic,Germany,Smartphone,20,21.1,63.3,12
+196,Premium,France,Smart TV,34,32.4,57.1,21
+197,Basic,Brazil,Tablet,31,29.4,56.9,20
+198,Standard,Mexico,Laptop,36,31.5,52.5,28
+199,Premium,Spain,Tablet,57,52.4,55.1,34
+200,Basic,Italy,Tablet,63,55.3,52.6,41
+201,Premium,United States,Smart TV,26,25.4,58.5,19
+202,Basic,Canada,Tablet,93,90.3,58.2,59
+203,Standard,United Kingdom,Smart TV,72,62.3,51.9,50
+204,Standard,Australia,Smartphone,50,36.5,43.8,37
+205,Basic,Germany,Smart TV,17,11.7,41.2,10
+206,Premium,France,Smartphone,60,51.0,51.0,39
+207,Basic,Brazil,Smartphone,65,51.2,47.3,42
+208,Standard,Mexico,Tablet,13,11.7,53.9,9
+209,Premium,Spain,Laptop,68,61.9,54.6,41
+210,Basic,Italy,Laptop,34,36.3,64.0,24
+211,Premium,United States,Tablet,40,37.2,55.8,28
+212,Basic,Canada,Smart TV,50,39.9,47.9,34
+213,Standard,United Kingdom,Smart TV,36,32.9,54.9,26
+214,Standard,Australia,Laptop,12,9.9,49.8,9
+215,Basic,Germany,Smartphone,29,23.4,48.3,16
+216,Premium,France,Smart TV,19,18.7,58.9,11
+217,Basic,Brazil,Smart TV,46,38.8,50.6,31
+218,Standard,Mexico,Tablet,10,13.0,77.9,7
+219,Premium,Spain,Smartphone,31,27.0,52.2,16
+220,Basic,Italy,Tablet,33,32.1,58.4,29
+221,Basic,United States,Smartphone,50,50.8,60.9,33
+222,Basic,Canada,Smartphone,14,12.4,53.1,11
+223,Standard,United Kingdom,Smartphone,42,45.1,64.5,31
+224,Premium,Australia,Smartphone,35,33.5,57.5,21
+225,Basic,Germany,Smartphone,65,59.1,54.6,43
+226,Basic,France,Smartphone,53,50.6,57.3,37
+227,Premium,Brazil,Smartphone,9,6.2,41.4,4
+228,Standard,Mexico,Smart TV,57,52.3,55.0,36
+229,Standard,Spain,Smartphone,42,32.9,47.0,27
+230,Basic,Italy,Laptop,65,64.1,59.1,42
+231,Premium,United States,Smartphone,35,31.8,54.6,20
+232,Standard,Canada,Smartphone,53,47.9,54.2,33
+233,Basic,United Kingdom,Smart TV,13,13.9,64.0,8
+234,Standard,Australia,Laptop,84,65.7,46.9,53
+235,Premium,Germany,Laptop,27,25.0,55.6,21
+236,Basic,France,Smartphone,92,80.8,52.7,58
+237,Premium,Brazil,Tablet,72,61.4,51.2,47
+238,Standard,Mexico,Smartphone,79,70.9,53.8,53
+239,Basic,Spain,Smart TV,47,47.1,60.1,28
+240,Standard,Italy,Smartphone,60,50.1,50.1,40
+241,Premium,United States,Laptop,85,85.3,60.2,51
+242,Basic,Canada,Laptop,22,20.3,55.4,17
+243,Standard,United Kingdom,Laptop,84,71.2,50.9,60
+244,Premium,Australia,Smartphone,73,63.1,51.9,53
+245,Basic,Germany,Smart TV,85,77.5,54.7,54
+246,Premium,France,Smartphone,55,49.4,53.9,37
+247,Basic,Brazil,Smart TV,81,67.3,49.8,53
+248,Standard,Mexico,Smartphone,57,52.5,55.2,38
+249,Standard,Spain,Smartphone,21,20.5,58.5,15
+250,Basic,Italy,Laptop,60,56.5,56.5,43
+251,Premium,United States,Laptop,66,56.7,51.5,48
+252,Basic,Canada,Smartphone,44,44.9,61.2,31
+253,Standard,United Kingdom,Tablet,14,14.2,60.9,10
+254,Premium,Australia,Smart TV,19,18.9,59.6,16
+255,Basic,Germany,Smart TV,86,74.3,51.9,61
+256,Premium,France,Tablet,83,77.3,55.9,54
+257,Basic,Brazil,Laptop,64,53.2,49.8,42
+258,Standard,Mexico,Smartphone,47,43.2,55.2,27
+259,Standard,Spain,Smartphone,22,22.1,60.2,15
+260,Basic,Italy,Smartphone,84,80.7,57.7,59
+261,Premium,United States,Smart TV,41,36.9,54.0,32
+262,Basic,Canada,Tablet,61,55.6,54.7,45
+263,Standard,United Kingdom,Smartphone,63,58.3,55.5,40
+264,Premium,Australia,Smartphone,58,49.3,51.0,41
+265,Basic,Germany,Smart TV,23,22.1,57.7,18
+266,Premium,France,Tablet,59,53.4,54.3,40
+267,Basic,Brazil,Laptop,13,14.1,65.2,9
+268,Standard,Mexico,Smart TV,55,54.0,58.9,38
+269,Standard,Spain,Laptop,37,32.1,52.1,26
+270,Basic,Italy,Smart TV,10,9.2,55.1,8
+271,Premium,United States,Laptop,59,48.1,49.0,40
+272,Basic,Canada,Smartphone,61,56.2,55.3,43
+273,Standard,United Kingdom,Laptop,84,71.1,50.8,54
+274,Premium,Australia,Tablet,22,20.6,56.3,14
+275,Basic,Germany,Laptop,33,27.7,50.3,23
+276,Premium,France,Smart TV,74,66.0,53.5,51
+277,Basic,Brazil,Tablet,44,34.0,46.4,34
+278,Standard,Mexico,Laptop,76,63.5,50.1,44
+279,Standard,Spain,Laptop,7,7.3,62.3,4
+280,Basic,Italy,Laptop,62,58.9,57.0,39
+281,Premium,United States,Smart TV,22,21.1,57.5,17
+282,Basic,Canada,Smart TV,12,13.8,69.2,8
+283,Standard,United Kingdom,Smartphone,17,15.9,56.1,9
+284,Premium,Australia,Smartphone,55,57.1,62.3,38
+285,Basic,Germany,Laptop,18,14.7,48.9,13
+286,Premium,France,Laptop,49,37.5,46.0,32
+287,Basic,Brazil,Smartphone,39,37.0,57.0,24
+288,Standard,Mexico,Smart TV,12,11.4,57.2,9
+289,Standard,Spain,Smart TV,15,8.5,33.9,9
+290,Basic,Italy,Smartphone,45,40.7,54.2,34
+291,Premium,United States,Tablet,21,15.8,45.0,15
+292,Basic,Canada,Laptop,41,39.9,58.4,32
+293,Standard,United Kingdom,Laptop,49,45.7,56.0,29
+294,Premium,Australia,Laptop,68,50.4,44.4,47
+295,Basic,Germany,Laptop,51,46.9,55.1,37
+296,Basic,France,Tablet,50,40.8,49.0,31
+297,Basic,Brazil,Smartphone,22,19.6,53.6,18
+298,Standard,Mexico,Tablet,50,37.4,44.8,36
+299,Premium,Spain,Smartphone,40,33.8,50.7,27
+300,Basic,Italy,Laptop,30,26.1,52.1,23
+301,Basic,United States,Laptop,40,38.5,57.7,29
+302,Premium,Canada,Tablet,62,50.0,48.4,42
+303,Standard,United Kingdom,Tablet,32,29.1,54.6,20
+304,Standard,Australia,Smartphone,60,51.8,51.8,38
+305,Basic,Germany,Smart TV,61,66.0,64.9,43
+306,Premium,France,Tablet,67,59.2,53.0,48
+307,Standard,Brazil,Smart TV,12,7.8,38.8,9
+308,Basic,Mexico,Smart TV,17,15.2,53.8,13
+309,Standard,Spain,Smartphone,35,31.8,54.5,21
+310,Premium,Italy,Smartphone,37,34.8,56.5,28
+311,Basic,United States,Smartphone,14,12.1,51.7,10
+312,Premium,Canada,Laptop,43,40.8,56.9,26
+313,Standard,United Kingdom,Laptop,104,91.3,52.7,63
+314,Basic,Australia,Laptop,33,30.0,54.6,24
+315,Standard,Germany,Smart TV,85,73.1,51.6,55
+316,Premium,France,Laptop,54,51.9,57.7,35
+317,Basic,Brazil,Tablet,28,28.1,60.2,21
+318,Standard,Mexico,Laptop,67,67.0,60.0,46
+319,Premium,Spain,Smartphone,13,10.3,47.3,9
+320,Basic,Italy,Laptop,69,60.5,52.6,45
+321,Premium,United States,Smartphone,23,19.2,50.0,14
+322,Basic,Canada,Smartphone,64,48.9,45.9,42
+323,Standard,United Kingdom,Smartphone,2,1.1,31.5,2
+324,Standard,Australia,Tablet,30,20.8,41.6,17
+325,Basic,Germany,Tablet,61,60.6,59.6,48
+326,Premium,France,Smartphone,56,52.2,55.9,44
+327,Basic,Brazil,Smartphone,72,70.4,58.7,48
+328,Standard,Mexico,Tablet,19,12.0,37.8,12
+329,Premium,Spain,Smart TV,47,36.2,46.2,32
+330,Basic,Italy,Smart TV,69,63.1,54.8,40
+331,Premium,United States,Tablet,14,15.3,65.4,9
+332,Basic,Canada,Tablet,31,29.9,57.9,20
+333,Standard,United Kingdom,Smart TV,74,67.2,54.4,48
+334,Standard,Australia,Smart TV,23,23.9,62.3,16
+335,Basic,Germany,Tablet,26,24.1,55.6,17
+336,Premium,France,Laptop,33,34.1,62.0,23
+337,Basic,Brazil,Laptop,69,66.8,58.1,47
+338,Standard,Mexico,Tablet,54,51.3,57.0,38
+339,Premium,Spain,Laptop,53,42.4,47.9,32
+340,Basic,Italy,Smartphone,17,19.4,68.4,14
+341,Premium,United States,Laptop,64,55.0,51.6,46
+342,Basic,Canada,Laptop,26,23.4,54.1,15
+343,Standard,United Kingdom,Smart TV,53,52.0,58.8,36
+344,Standard,Australia,Smartphone,80,62.7,47.0,47
+345,Basic,Germany,Smart TV,80,76.0,57.0,49
+346,Premium,France,Tablet,58,48.0,49.6,39
+347,Basic,Brazil,Smartphone,41,39.3,57.5,32
+348,Standard,Mexico,Smart TV,58,47.0,48.6,39
+349,Premium,Spain,Smartphone,21,16.6,47.3,13
+350,Basic,Italy,Smartphone,39,32.3,49.6,26
+351,Premium,United States,Smart TV,55,49.4,53.8,33
+352,Basic,Canada,Laptop,28,24.6,52.7,16
+353,Standard,United Kingdom,Smartphone,63,63.7,60.7,41
+354,Standard,Australia,Laptop,67,53.7,48.1,43
+355,Basic,Germany,Tablet,31,31.5,61.0,23
+356,Premium,France,Smart TV,41,37.8,55.3,25
+357,Basic,Brazil,Smartphone,9,8.4,56.3,6
+358,Standard,Mexico,Smart TV,16,14.7,55.0,12
+359,Premium,Spain,Smartphone,69,68.2,59.3,39
+360,Basic,Italy,Tablet,47,51.5,65.7,28
+361,Premium,United States,Laptop,41,33.9,49.6,28
+362,Basic,Canada,Laptop,28,22.3,47.8,18
+363,Standard,United Kingdom,Smart TV,30,24.9,49.9,22
+364,Standard,Australia,Smart TV,6,5.1,50.7,4
+365,Basic,Germany,Laptop,59,50.1,50.9,42
+366,Premium,France,Smart TV,10,10.2,61.4,7
+367,Basic,Brazil,Laptop,19,18.8,59.3,12
+368,Standard,Mexico,Smartphone,52,48.5,55.9,36
+369,Premium,Spain,Smartphone,49,47.0,57.5,33
+370,Basic,Italy,Smartphone,31,29.2,56.5,22
+371,Basic,United States,Tablet,13,8.2,37.8,9
+372,Basic,Canada,Tablet,43,42.1,58.8,28
+373,Standard,United Kingdom,Tablet,63,55.6,52.9,46
+374,Premium,Australia,Laptop,38,32.0,50.5,26
+375,Basic,Germany,Laptop,50,49.0,58.8,31
+376,Basic,France,Smartphone,23,17.4,45.4,17
+377,Premium,Brazil,Laptop,68,58.0,51.1,41
+378,Standard,Mexico,Laptop,70,63.8,54.7,47
+379,Standard,Spain,Smart TV,72,68.6,57.2,50
+380,Basic,Italy,Smart TV,70,57.7,49.5,46
+381,Premium,United States,Laptop,34,35.1,61.9,21
+382,Standard,Canada,Smart TV,58,54.1,56.0,41
+383,Basic,United Kingdom,Smart TV,15,13.7,54.6,10
+384,Standard,Australia,Smartphone,85,74.4,52.5,56
+385,Premium,Germany,Smartphone,65,59.7,55.1,39
+386,Basic,France,Tablet,43,31.7,44.2,29
+387,Premium,Brazil,Tablet,61,61.2,60.2,46
+388,Standard,Mexico,Laptop,73,64.0,52.6,48
+389,Basic,Spain,Smart TV,65,57.1,52.7,48
+390,Standard,Italy,Laptop,74,71.4,57.9,49
+391,Premium,United States,Laptop,14,15.5,66.3,8
+392,Basic,Canada,Smart TV,18,15.3,51.2,11
+393,Standard,United Kingdom,Tablet,80,69.6,52.2,53
+394,Premium,Australia,Tablet,86,81.2,56.7,64
+395,Basic,Germany,Laptop,90,81.0,54.0,54
+396,Premium,France,Smartphone,90,83.8,55.9,57
+397,Basic,Brazil,Smartphone,9,7.2,47.9,7
+398,Standard,Mexico,Tablet,80,77.1,57.8,54
+399,Standard,Spain,Smartphone,8,6.6,49.8,7
+400,Basic,Italy,Laptop,62,55.5,53.7,43
+401,Premium,United States,Laptop,61,64.2,63.1,36
+402,Basic,Canada,Smartphone,66,63.7,57.9,47
+403,Standard,United Kingdom,Smartphone,51,39.0,45.8,34
+404,Premium,Australia,Smartphone,45,40.8,54.4,30
+405,Basic,Germany,Tablet,42,34.6,49.4,33
+406,Premium,France,Smartphone,82,76.4,55.9,54
+407,Basic,Brazil,Tablet,10,9.0,54.0,8
+408,Standard,Mexico,Tablet,64,61.8,58.0,43
+409,Standard,Spain,Smartphone,24,19.7,49.2,18
+410,Basic,Italy,Smart TV,57,45.2,47.6,39
+411,Premium,United States,Tablet,66,60.7,55.2,45
+412,Basic,Canada,Laptop,28,22.1,47.3,23
+413,Standard,United Kingdom,Smartphone,62,55.3,53.5,39
+414,Premium,Australia,Laptop,58,49.4,51.1,36
+415,Basic,Germany,Smartphone,26,22.2,51.2,18
+416,Premium,France,Tablet,37,35.3,57.3,24
+417,Basic,Brazil,Smart TV,60,50.8,50.8,41
+418,Standard,Mexico,Smart TV,6,3.0,29.5,5
+419,Standard,Spain,Laptop,51,50.0,58.8,33
+420,Basic,Italy,Laptop,42,35.2,50.3,27
+421,Premium,United States,Tablet,25,25.3,60.6,17
+422,Basic,Canada,Tablet,31,33.1,64.0,22
+423,Standard,United Kingdom,Smartphone,15,15.1,60.5,10
+424,Premium,Australia,Tablet,32,26.8,50.2,24
+425,Basic,Germany,Tablet,52,50.1,57.8,32
+426,Premium,France,Laptop,27,24.7,54.9,16
+427,Basic,Brazil,Smart TV,51,46.3,54.5,32
+428,Standard,Mexico,Smartphone,53,47.8,54.2,34
+429,Standard,Spain,Laptop,25,17.7,42.4,18
+430,Basic,Italy,Smart TV,48,43.4,54.3,29
+431,Premium,United States,Smart TV,41,31.5,46.1,25
+432,Basic,Canada,Smart TV,25,22.5,53.9,21
+433,Standard,United Kingdom,Smartphone,34,31.9,56.3,20
+434,Premium,Australia,Laptop,58,59.7,61.8,37
+435,Basic,Germany,Smart TV,33,31.4,57.0,19
+436,Premium,France,Smartphone,62,52.6,50.9,40
+437,Basic,Brazil,Smart TV,30,27.5,55.0,17
+438,Standard,Mexico,Smart TV,49,46.3,56.7,34
+439,Standard,Spain,Smart TV,48,44.6,55.8,30
+440,Basic,Italy,Tablet,39,31.4,48.3,28
+441,Premium,United States,Laptop,30,27.4,54.8,19
+442,Basic,Canada,Laptop,60,50.9,50.9,36
+443,Standard,United Kingdom,Smart TV,40,35.5,53.3,25
+444,Premium,Australia,Smartphone,20,19.6,58.7,12
+445,Basic,Germany,Tablet,20,13.4,40.4,14
+446,Basic,France,Smartphone,10,8.9,53.5,7
+447,Basic,Brazil,Laptop,71,72.8,61.6,52
+448,Standard,Mexico,Tablet,11,12.0,65.6,7
+449,Premium,Spain,Laptop,83,82.8,59.9,57
+450,Basic,Italy,Laptop,61,55.7,54.8,45
+451,Basic,United States,Laptop,23,20.6,53.7,16
+452,Premium,Canada,Laptop,30,26.5,52.9,17
+453,Standard,United Kingdom,Tablet,38,35.9,56.7,29
+454,Standard,Australia,Tablet,88,81.3,55.4,57
+455,Basic,Germany,Smart TV,65,58.3,53.8,47
+456,Premium,France,Tablet,73,65.1,53.5,52
+457,Standard,Brazil,Smart TV,74,73.1,59.3,51
+458,Basic,Mexico,Tablet,72,69.3,57.8,46
+459,Standard,Spain,Tablet,21,21.7,62.0,15
+460,Premium,Italy,Smart TV,76,71.2,56.2,53
+461,Basic,United States,Smart TV,38,32.3,50.9,25
+462,Premium,Canada,Smartphone,48,33.8,42.3,35
+463,Standard,United Kingdom,Smart TV,111,96.1,52.0,70
+464,Basic,Australia,Laptop,77,74.3,57.9,51
+465,Standard,Germany,Laptop,22,18.3,50.0,15
+466,Premium,France,Laptop,82,71.7,52.4,58
+467,Basic,Brazil,Laptop,70,61.9,53.0,48
+468,Standard,Mexico,Smart TV,28,22.6,48.3,18
+469,Premium,Spain,Tablet,45,42.4,56.5,29
+470,Basic,Italy,Tablet,48,52.9,66.1,29
+471,Premium,United States,Tablet,41,40.9,59.9,27
+472,Basic,Canada,Tablet,6,5.7,56.5,6
+473,Standard,United Kingdom,Smartphone,74,59.8,48.5,45
+474,Standard,Australia,Smartphone,37,31.9,51.8,25
+475,Basic,Germany,Smart TV,63,59.2,56.3,38
+476,Premium,France,Laptop,12,14.1,70.7,10
+477,Basic,Brazil,Laptop,11,8.5,46.4,7
+478,Standard,Mexico,Laptop,76,62.4,49.3,49
+479,Premium,Spain,Smartphone,54,49.2,54.6,33
+480,Basic,Italy,Laptop,67,62.3,55.8,43
+481,Premium,United States,Smart TV,57,48.3,50.8,36
+482,Basic,Canada,Smart TV,72,66.2,55.2,47
+483,Standard,United Kingdom,Smart TV,68,62.2,54.9,45
+484,Standard,Australia,Smartphone,12,10.0,49.9,8
+485,Basic,Germany,Tablet,14,9.9,42.6,11
+486,Premium,France,Laptop,27,19.4,43.2,21
+487,Basic,Brazil,Smart TV,9,7.6,50.6,8
+488,Standard,Mexico,Smart TV,13,12.3,56.6,11
+489,Premium,Spain,Tablet,40,32.5,48.8,32
+490,Basic,Italy,Smart TV,29,28.8,59.5,19
+491,Premium,United States,Smartphone,51,47.0,55.3,36
+492,Basic,Canada,Tablet,19,17.5,55.2,15
+493,Standard,United Kingdom,Smartphone,23,23.1,60.3,15
+494,Standard,Australia,Smart TV,23,24.1,62.9,14
+495,Basic,Germany,Smartphone,18,13.5,45.0,13
+496,Premium,France,Laptop,58,49.8,51.5,40
+497,Basic,Brazil,Smartphone,37,32.4,52.6,27
+498,Standard,Mexico,Smartphone,57,46.8,49.3,39
+499,Premium,Spain,Laptop,6,4.0,40.2,4
+500,Basic,Italy,Laptop,50,50.0,60.1,29
+501,Premium,Spain,Smartphone,32,34.6,64.9,24
+502,Basic,Spain,Smartphone,56,48.8,52.3,36
+503,Standard,United States,Tablet,65,59.2,54.6,38
+504,Standard,Canada,Laptop,58,48.5,50.2,36
+505,Basic,United States,Smartphone,9,8.8,58.6,9
+506,Premium,United States,Smart TV,18,15.6,52.1,15
+507,Basic,Canada,Tablet,45,41.7,55.6,29
+508,Standard,United Kingdom,Tablet,7,5.1,44.0,6
+509,Premium,Australia,Smartphone,56,52.0,55.7,34
+510,Basic,Germany,Tablet,35,33.5,57.4,23
+511,Premium,France,Smart TV,39,28.6,44.0,23
+512,Basic,Brazil,Tablet,23,19.8,51.7,14
+513,Standard,Mexico,Tablet,5,4.7,56.8,3
+514,Standard,Spain,Tablet,82,71.7,52.5,48
+515,Basic,Italy,Laptop,25,24.1,57.9,18
+516,Premium,Spain,Smart TV,17,16.5,58.4,11
+517,Basic,Spain,Smart TV,23,21.9,57.1,16
+518,Standard,United States,Tablet,45,38.4,51.1,27
+519,Premium,Canada,Smartphone,74,67.8,54.9,46
+520,Basic,United States,Smart TV,67,61.6,55.2,43
+521,Basic,United States,Smart TV,62,54.5,52.8,41
+522,Basic,Canada,Tablet,20,15.7,47.1,15
+523,Standard,United Kingdom,Smartphone,11,11.1,60.6,7
+524,Premium,Australia,Tablet,8,6.6,49.4,6
+525,Basic,Germany,Tablet,29,29.2,60.3,23
+526,Basic,France,Laptop,78,67.6,52.0,56
+527,Premium,Brazil,Tablet,11,11.2,61.2,7
+528,Standard,Mexico,Smartphone,41,27.6,40.4,24
+529,Standard,Spain,Laptop,26,24.4,56.3,19
+530,Basic,Italy,Smart TV,50,43.8,52.6,33
+531,Premium,Spain,Laptop,19,16.6,52.3,14
+532,Standard,Spain,Laptop,34,32.3,57.0,22
+533,Basic,United States,Smartphone,71,67.0,56.6,48
+534,Standard,Canada,Smart TV,17,19.1,67.4,12
+535,Premium,United States,Laptop,90,84.8,56.5,57
+536,Basic,United States,Smart TV,13,13.1,60.4,9
+537,Premium,Canada,Smartphone,61,58.5,57.6,34
+538,Standard,United Kingdom,Tablet,51,45.7,53.8,40
+539,Basic,Australia,Tablet,84,79.0,56.4,54
+540,Standard,Germany,Smartphone,32,28.5,53.4,16
+541,Premium,France,Smart TV,9,8.3,55.7,6
+542,Basic,Brazil,Smartphone,29,24.4,50.6,21
+543,Standard,Mexico,Smartphone,71,56.5,47.8,45
+544,Premium,Spain,Tablet,64,58.7,55.0,45
+545,Basic,Italy,Smart TV,22,16.6,45.4,14
+546,Premium,Spain,Smart TV,35,32.2,55.2,22
+547,Basic,Spain,Tablet,48,38.8,48.5,34
+548,Standard,United States,Smartphone,42,40.9,58.4,26
+549,Standard,Canada,Smartphone,38,41.4,65.3,28
+550,Basic,United States,Tablet,54,53.2,59.1,35
+551,Premium,United States,Laptop,59,58.3,59.3,42
+552,Basic,Canada,Tablet,46,40.7,53.1,29
+553,Standard,United Kingdom,Smart TV,56,52.4,56.2,38
+554,Premium,Australia,Smartphone,7,5.7,49.1,6
+555,Basic,Germany,Smartphone,61,58.5,57.6,41
+556,Premium,France,Smartphone,47,49.8,63.5,30
+557,Basic,Brazil,Smartphone,42,33.9,48.5,30
+558,Standard,Mexico,Smart TV,69,66.5,57.8,43
+559,Standard,Spain,Tablet,67,60.5,54.2,42
+560,Basic,Italy,Laptop,12,12.6,62.8,10
+561,Premium,Spain,Laptop,63,57.0,54.3,44
+562,Basic,Spain,Laptop,10,6.8,40.6,7
+563,Standard,United States,Tablet,52,48.5,55.9,33
+564,Premium,Canada,Smartphone,36,36.6,61.0,23
+565,Basic,United States,Laptop,49,42.5,52.0,34
+566,Premium,United States,Tablet,56,51.6,55.3,33
+567,Basic,Canada,Smart TV,46,44.1,57.5,35
+568,Standard,United Kingdom,Laptop,36,31.6,52.8,24
+569,Standard,Australia,Laptop,45,42.2,56.2,34
+570,Basic,Germany,Laptop,54,50.1,55.6,39
+571,Premium,France,Smart TV,48,38.6,48.3,29
+572,Basic,Brazil,Tablet,58,51.6,53.4,36
+573,Standard,Mexico,Smart TV,44,41.6,56.8,29
+574,Premium,Spain,Smartphone,27,24.3,54.0,20
+575,Basic,Italy,Smart TV,48,46.2,57.8,31
+576,Premium,Spain,Tablet,59,49.6,50.5,40
+577,Basic,Spain,Laptop,25,23.9,57.4,16
+578,Standard,United States,Laptop,53,42.6,48.2,38
+579,Standard,Canada,Tablet,47,47.7,60.9,28
+580,Basic,United States,Tablet,13,9.9,45.5,10
+581,Premium,United States,Laptop,72,58.2,48.5,45
+582,Basic,Canada,Laptop,13,13.0,60.1,9
+583,Standard,United Kingdom,Tablet,55,46.8,51.0,33
+584,Premium,Australia,Smart TV,66,59.9,54.5,46
+585,Basic,Germany,Laptop,72,62.1,51.8,49
+586,Premium,France,Laptop,21,17.5,49.9,12
+587,Basic,Brazil,Smart TV,60,59.1,59.1,37
+588,Standard,Mexico,Smartphone,39,34.1,52.5,31
+589,Standard,Spain,Laptop,38,36.3,57.4,23
+590,Basic,Italy,Laptop,60,55.3,55.3,40
+591,Premium,Spain,Smart TV,41,43.9,64.2,23
+592,Basic,Spain,Smartphone,61,58.5,57.5,46
+593,Standard,United States,Smartphone,12,9.2,46.0,7
+594,Premium,Canada,Smart TV,21,21.6,61.6,13
+595,Basic,United States,Laptop,70,66.1,56.7,52
+596,Basic,United States,Smart TV,62,60.4,58.4,47
+597,Basic,Canada,Laptop,10,10.8,64.6,6
+598,Standard,United Kingdom,Tablet,64,62.0,58.2,44
+599,Premium,Australia,Smart TV,29,27.1,56.0,21
+600,Basic,Germany,Smart TV,47,48.1,61.4,30
+601,Basic,France,Smart TV,82,73.7,54.0,54
+602,Premium,Brazil,Smartphone,70,59.9,51.3,50
+603,Standard,Mexico,Tablet,74,71.2,57.7,54
+604,Standard,Spain,Smartphone,71,65.8,55.6,53
+605,Basic,Italy,Tablet,22,20.9,57.1,14
+606,Premium,Spain,Tablet,102,100.5,59.1,64
+607,Standard,Spain,Smart TV,80,67.5,50.7,52
+608,Basic,United States,Smart TV,63,62.5,59.5,47
+609,Standard,Canada,Smartphone,8,6.9,51.8,6
+610,Premium,United States,Tablet,15,14.2,56.9,7
+611,Basic,United States,Smartphone,74,71.1,57.7,46
+612,Premium,Canada,Smart TV,19,14.4,45.6,14
+613,Standard,United Kingdom,Laptop,80,85.9,64.4,47
+614,Basic,Australia,Smartphone,80,77.4,58.1,47
+615,Standard,Germany,Smart TV,25,20.9,50.2,16
+616,Premium,France,Laptop,66,65.5,59.5,48
+617,Basic,Brazil,Smartphone,59,60.4,61.4,35
+618,Standard,Mexico,Smart TV,60,54.9,54.9,40
+619,Premium,Spain,Smartphone,50,51.7,62.0,38
+620,Basic,Italy,Smartphone,19,18.7,59.0,15
+621,Premium,Spain,Smart TV,17,17.1,60.2,12
+622,Basic,Spain,Smartphone,59,53.5,54.4,37
+623,Standard,United States,Smart TV,25,23.3,55.9,14
+624,Standard,Canada,Smartphone,66,61.8,56.2,41
+625,Basic,United States,Tablet,39,37.5,57.7,28
+626,Premium,United States,Laptop,52,41.8,48.2,32
+627,Basic,Canada,Smart TV,41,41.2,60.3,24
+628,Standard,United Kingdom,Smartphone,57,53.6,56.5,42
+629,Premium,Australia,Tablet,41,34.4,50.3,28
+630,Basic,Germany,Smart TV,77,79.1,61.6,45
+631,Premium,France,Smartphone,48,51.5,64.4,32
+632,Basic,Brazil,Smartphone,9,8.9,59.2,7
+633,Standard,Mexico,Smartphone,28,23.7,50.9,19
+634,Standard,Spain,Smart TV,28,24.6,52.8,18
+635,Basic,Italy,Laptop,20,19.6,58.8,13
+636,Premium,Spain,Smart TV,72,67.1,55.9,47
+637,Basic,Spain,Tablet,42,35.5,50.7,30
+638,Standard,United States,Tablet,41,45.3,66.3,26
+639,Premium,Canada,Laptop,50,45.8,55.0,29
+640,Basic,United States,Laptop,59,60.2,61.2,39
+641,Premium,United States,Tablet,55,45.9,50.1,35
+642,Basic,Canada,Laptop,47,45.5,58.1,34
+643,Standard,United Kingdom,Smartphone,28,24.6,52.7,17
+644,Standard,Australia,Laptop,30,27.0,54.0,21
+645,Basic,Germany,Laptop,34,31.2,55.1,24
+646,Premium,France,Laptop,54,52.2,58.0,36
+647,Basic,Brazil,Smart TV,42,41.9,59.9,26
+648,Standard,Mexico,Smartphone,56,52.9,56.7,34
+649,Premium,Spain,Smartphone,57,47.1,49.6,39
+650,Basic,Italy,Smart TV,76,65.9,52.0,47
+651,Premium,Spain,Tablet,70,64.8,55.5,45
+652,Basic,Spain,Smartphone,76,76.0,60.0,52
+653,Standard,United States,Smartphone,63,56.8,54.1,46
+654,Standard,Canada,Smartphone,25,25.6,61.4,17
+655,Basic,United States,Tablet,65,54.8,50.6,41
+656,Premium,United States,Laptop,73,65.0,53.4,47
+657,Basic,Canada,Smart TV,81,72.7,53.8,51
+658,Standard,United Kingdom,Smart TV,38,40.1,63.3,23
+659,Premium,Australia,Laptop,9,9.6,64.1,8
+660,Basic,Germany,Smart TV,6,5.3,52.5,5
+661,Premium,France,Laptop,13,13.1,60.3,12
+662,Basic,Brazil,Tablet,66,56.9,51.7,41
+663,Standard,Mexico,Tablet,76,62.9,49.6,54
+664,Standard,Spain,Smart TV,88,79.1,53.9,54
+665,Basic,Italy,Smartphone,12,11.6,57.8,7
+666,Premium,Spain,Tablet,65,59.5,54.9,41
+667,Basic,Spain,Smartphone,25,22.4,53.8,17
+668,Standard,United States,Smart TV,18,18.0,59.9,14
+669,Premium,Canada,Tablet,33,30.6,55.5,22
+670,Basic,United States,Smart TV,88,76.8,52.3,55
+671,Basic,United States,Tablet,76,72.6,57.3,50
+672,Basic,Canada,Tablet,80,74.4,55.8,52
+673,Standard,United Kingdom,Smartphone,63,55.0,52.4,40
+674,Premium,Australia,Laptop,80,63.3,47.4,50
+675,Basic,Germany,Tablet,74,70.3,57.0,48
+676,Basic,France,Smartphone,86,86.9,60.6,53
+677,Premium,Brazil,Smart TV,70,72.5,62.2,46
+678,Standard,Mexico,Smart TV,42,35.9,51.3,30
+679,Standard,Spain,Laptop,50,44.9,53.9,30
+680,Basic,Italy,Laptop,10,7.5,45.0,7
+681,Premium,Spain,Laptop,7,8.7,74.9,5
+682,Standard,Spain,Tablet,70,60.4,51.7,49
+683,Basic,United States,Smartphone,54,45.0,50.0,41
+684,Standard,Canada,Smartphone,19,10.9,34.5,14
+685,Premium,United States,Smartphone,58,55.0,56.9,39
+686,Basic,United States,Tablet,17,16.0,56.5,16
+687,Premium,Canada,Tablet,13,11.4,52.8,11
+688,Standard,United Kingdom,Smartphone,61,50.4,49.6,44
+689,Basic,Australia,Smart TV,22,16.0,43.5,12
+690,Standard,Germany,Laptop,38,29.5,46.6,22
+691,Premium,France,Laptop,10,8.5,50.8,6
+692,Basic,Brazil,Tablet,76,71.8,56.7,52
+693,Standard,Mexico,Tablet,14,12.1,51.9,9
+694,Premium,Spain,Smart TV,7,6.0,51.0,6
+695,Basic,Italy,Laptop,41,32.8,48.0,28
+696,Premium,Spain,Tablet,62,51.8,50.1,42
+697,Basic,Spain,Smart TV,54,51.2,56.9,42
+698,Standard,United States,Laptop,43,32.2,45.0,29
+699,Standard,Canada,Smartphone,23,19.3,50.3,16
+700,Basic,United States,Laptop,44,44.5,60.7,28
+701,Premium,United States,Smart TV,24,20.8,51.9,17
+702,Basic,Canada,Smartphone,35,30.9,53.1,23
+703,Standard,United Kingdom,Laptop,64,53.8,50.5,40
+704,Premium,Australia,Tablet,25,18.5,44.5,15
+705,Basic,Germany,Laptop,57,51.0,53.7,39
+706,Premium,France,Smartphone,19,20.3,63.9,13
+707,Basic,Brazil,Smart TV,38,34.2,54.0,20
+708,Standard,Mexico,Laptop,48,40.2,50.3,30
+709,Standard,Spain,Smart TV,58,57.7,59.7,37
+710,Basic,Italy,Smart TV,41,34.1,50.0,29
+711,Premium,Spain,Laptop,67,58.3,52.2,42
+712,Basic,Spain,Tablet,22,19.6,53.4,10
+713,Standard,United States,Laptop,53,53.2,60.2,34
+714,Premium,Canada,Tablet,53,49.8,56.4,31
+715,Basic,United States,Laptop,47,38.9,49.6,31
+716,Premium,United States,Laptop,52,53.2,61.4,31
+717,Basic,Canada,Tablet,51,55.2,64.9,33
+718,Standard,United Kingdom,Tablet,6,5.7,56.7,4
+719,Standard,Australia,Tablet,26,22.7,52.3,15
+720,Basic,Germany,Tablet,33,37.4,67.9,22
+721,Premium,France,Tablet,43,33.6,46.8,28
+722,Basic,Brazil,Smartphone,33,26.9,48.9,23
+723,Standard,Mexico,Smartphone,58,55.0,56.9,35
+724,Premium,Spain,Laptop,45,44.3,59.1,34
+725,Basic,Italy,Tablet,76,69.3,54.7,53
+726,Premium,Spain,Laptop,23,23.3,60.8,14
+727,Basic,Spain,Laptop,68,64.0,56.5,48
+728,Standard,United States,Laptop,19,20.9,65.9,11
+729,Standard,Canada,Smartphone,19,16.9,53.3,15
+730,Basic,United States,Smartphone,83,77.3,55.9,57
+731,Premium,United States,Tablet,15,14.7,58.9,11
+732,Basic,Canada,Tablet,20,16.5,49.5,13
+733,Standard,United Kingdom,Laptop,86,75.3,52.5,54
+734,Premium,Australia,Tablet,44,39.6,54.0,28
+735,Basic,Germany,Laptop,63,47.8,45.6,42
+736,Premium,France,Smartphone,99,85.0,51.5,57
+737,Basic,Brazil,Tablet,19,19.3,60.9,11
+738,Standard,Mexico,Smartphone,57,52.9,55.6,39
+739,Standard,Spain,Smartphone,12,7.9,39.5,9
+740,Basic,Italy,Tablet,61,48.9,48.1,36
+741,Premium,Spain,Smart TV,34,32.1,56.7,23
+742,Basic,Spain,Smartphone,77,68.6,53.5,54
+743,Standard,United States,Laptop,23,23.5,61.3,15
+744,Premium,Canada,Tablet,47,43.7,55.8,27
+745,Basic,United States,Laptop,11,11.3,61.5,8
+746,Basic,United States,Smartphone,9,7.0,46.7,5
+747,Basic,Canada,Smart TV,62,57.8,55.9,42
+748,Standard,United Kingdom,Smart TV,41,43.6,63.8,25
+749,Premium,Australia,Smart TV,16,16.2,60.8,10
+750,Basic,Germany,Smart TV,86,70.0,48.8,58
+751,Basic,France,Laptop,22,16.5,45.0,13
+752,Premium,Brazil,Smartphone,42,41.7,59.6,28
+753,Standard,Mexico,Smartphone,36,36.4,60.7,25
+754,Standard,Spain,Laptop,65,60.2,55.6,45
+755,Basic,Italy,Tablet,48,39.5,49.4,29
+756,Premium,Spain,Smartphone,9,7.8,52.3,5
+757,Standard,Spain,Laptop,49,42.6,52.2,33
+758,Basic,United States,Laptop,18,17.3,57.6,11
+759,Standard,Canada,Smart TV,28,24.7,52.9,17
+760,Premium,United States,Smartphone,64,55.8,52.3,42
+761,Basic,United States,Smart TV,54,54.2,60.3,40
+762,Premium,Canada,Laptop,8,6.9,52.0,6
+763,Standard,United Kingdom,Laptop,49,48.0,58.8,33
+764,Basic,Australia,Smart TV,52,49.0,56.5,36
+765,Standard,Germany,Smart TV,56,41.4,44.4,41
+766,Premium,France,Smartphone,22,20.9,57.0,15
+767,Basic,Brazil,Laptop,54,52.5,58.3,33
+768,Standard,Mexico,Laptop,50,44.5,53.5,32
+769,Premium,Spain,Smart TV,26,22.2,51.3,20
+770,Basic,Italy,Laptop,69,56.7,49.3,45
+771,Premium,Spain,Tablet,61,56.2,55.3,37
+772,Basic,Spain,Laptop,20,23.0,69.1,14
+773,Standard,United States,Smart TV,44,38.9,53.0,30
+774,Standard,Canada,Smartphone,27,27.2,60.4,20
+775,Basic,United States,Tablet,59,54.9,55.9,38
+776,Premium,United States,Laptop,8,6.7,50.5,5
+777,Basic,Canada,Smartphone,16,13.8,51.6,12
+778,Standard,United Kingdom,Tablet,47,45.4,57.9,31
+779,Premium,Australia,Smart TV,42,40.0,57.1,30
+780,Basic,Germany,Laptop,30,26.9,53.8,19
+781,Premium,France,Smartphone,56,53.8,57.6,36
+782,Basic,Brazil,Laptop,59,49.0,49.8,38
+783,Standard,Mexico,Laptop,46,45.6,59.5,33
+784,Standard,Spain,Laptop,34,31.1,54.8,21
+785,Basic,Italy,Laptop,6,5.2,51.8,4
+786,Premium,Spain,Smart TV,34,32.3,57.0,25
+787,Basic,Spain,Laptop,52,40.9,47.2,36
+788,Standard,United States,Tablet,24,19.6,49.1,15
+789,Premium,Canada,Smartphone,22,17.9,48.9,17
+790,Basic,United States,Smartphone,67,58.2,52.1,39
+791,Premium,United States,Smartphone,73,67.6,55.5,48
+792,Basic,Canada,Smart TV,35,31.5,53.9,26
+793,Standard,United Kingdom,Smartphone,61,54.3,53.4,43
+794,Standard,Australia,Smart TV,62,55.8,54.0,43
+795,Basic,Germany,Smartphone,12,13.1,65.7,7
+796,Premium,France,Smart TV,35,33.0,56.7,27
+797,Basic,Brazil,Tablet,10,5.4,32.3,6
+798,Standard,Mexico,Laptop,27,18.5,41.2,19
+799,Premium,Spain,Tablet,83,74.2,53.6,54
+800,Basic,Italy,Smartphone,77,79.9,62.3,53
+801,Premium,Spain,Smartphone,95,86.6,54.7,59
+802,Basic,Spain,Smartphone,63,55.7,53.0,46
+803,Standard,United States,Smart TV,60,52.1,52.1,37
+804,Standard,Canada,Smartphone,64,57.4,53.8,50
+805,Basic,United States,Laptop,11,11.1,60.3,7
+806,Premium,United States,Laptop,9,12.1,80.9,7
+807,Basic,Canada,Tablet,68,65.8,58.1,48
+808,Standard,United Kingdom,Smart TV,46,38.6,50.3,30
+809,Premium,Australia,Smartphone,75,62.4,49.9,48
+810,Basic,Germany,Smartphone,87,75.2,51.8,57
+811,Premium,France,Laptop,48,47.0,58.8,32
+812,Basic,Brazil,Laptop,62,62.5,60.5,37
+813,Standard,Mexico,Smartphone,67,61.6,55.2,46
+814,Standard,Spain,Smartphone,12,8.7,43.7,7
+815,Basic,Italy,Smartphone,16,13.5,50.6,12
+816,Premium,Spain,Smart TV,67,61.9,55.4,45
+817,Basic,Spain,Tablet,52,48.8,56.3,29
+818,Standard,United States,Tablet,32,26.8,50.3,24
+819,Premium,Canada,Laptop,42,40.5,57.9,30
+820,Basic,United States,Tablet,68,57.2,50.5,47
+821,Basic,United States,Laptop,35,31.8,54.5,22
+822,Basic,Canada,Laptop,74,78.4,63.6,47
+823,Standard,United Kingdom,Smartphone,54,52.3,58.1,42
+824,Premium,Australia,Smartphone,61,65.3,64.2,41
+825,Basic,Germany,Laptop,58,65.1,67.3,38
+826,Basic,France,Smart TV,63,57.5,54.7,45
+827,Premium,Brazil,Smartphone,54,54.9,61.0,36
+828,Standard,Mexico,Smart TV,44,38.8,52.9,25
+829,Standard,Spain,Tablet,73,64.5,53.0,41
+830,Basic,Italy,Smartphone,31,25.9,50.1,20
+831,Premium,Spain,Smartphone,61,60.8,59.8,42
+832,Standard,Spain,Tablet,56,46.0,49.3,37
+833,Basic,United States,Smartphone,71,64.4,54.4,47
+834,Standard,Canada,Smart TV,58,56.0,57.9,38
+835,Premium,United States,Laptop,32,29.5,55.3,19
+836,Basic,United States,Laptop,70,56.2,48.2,38
+837,Premium,Canada,Smart TV,15,12.3,49.1,12
+838,Standard,United Kingdom,Smartphone,48,47.4,59.2,35
+839,Basic,Australia,Laptop,5,4.6,55.4,4
+840,Standard,Germany,Smartphone,40,37.7,56.6,28
+841,Premium,France,Smartphone,50,50.4,60.4,33
+842,Basic,Brazil,Laptop,48,42.0,52.5,32
+843,Standard,Mexico,Smartphone,62,53.2,51.5,41
+844,Premium,Spain,Smart TV,57,64.9,68.3,40
+845,Basic,Italy,Smartphone,60,43.6,43.6,40
+846,Premium,Spain,Laptop,73,67.9,55.8,48
+847,Basic,Spain,Smart TV,6,4.1,41.0,5
+848,Standard,United States,Tablet,51,48.1,56.6,34
+849,Standard,Canada,Smart TV,20,18.6,56.0,12
+850,Basic,United States,Smart TV,13,12.4,57.1,9
+851,Premium,United States,Laptop,45,38.6,51.5,28
+852,Basic,Canada,Laptop,51,48.4,57.0,34
+853,Standard,United Kingdom,Tablet,30,29.1,58.2,22
+854,Premium,Australia,Smart TV,58,56.8,58.7,39
+855,Basic,Germany,Laptop,15,15.9,63.6,10
+856,Premium,France,Smart TV,60,56.3,56.3,39
+857,Basic,Brazil,Smartphone,45,36.1,48.1,25
+858,Standard,Mexico,Laptop,57,52.6,55.4,38
+859,Standard,Spain,Tablet,56,50.4,54.0,42
+860,Basic,Italy,Smart TV,12,8.9,44.8,9
+861,Premium,Spain,Smart TV,69,62.8,54.6,45
+862,Basic,Spain,Smartphone,23,19.4,50.7,11
+863,Standard,United States,Laptop,60,55.7,55.7,41
+864,Premium,Canada,Tablet,20,20.3,60.8,14
+865,Basic,United States,Smartphone,29,32.9,68.1,17
+866,Premium,United States,Smart TV,71,67.3,56.8,47
+867,Basic,Canada,Tablet,71,64.3,54.4,49
+868,Standard,United Kingdom,Tablet,13,8.8,40.7,11
+869,Standard,Australia,Tablet,24,25.4,63.5,17
+870,Basic,Germany,Laptop,70,60.5,51.9,44
+871,Premium,France,Tablet,36,32.8,54.6,25
+872,Basic,Brazil,Laptop,16,12.3,46.3,14
+873,Standard,Mexico,Smart TV,89,84.7,57.1,60
+874,Premium,Spain,Smart TV,68,67.1,59.2,44
+875,Basic,Italy,Smart TV,62,57.1,55.2,42
+876,Premium,Spain,Tablet,64,54.5,51.1,46
+877,Basic,Spain,Smart TV,12,8.2,40.9,8
+878,Standard,United States,Smartphone,29,24.5,50.7,18
+879,Standard,Canada,Tablet,26,24.8,57.2,20
+880,Basic,United States,Smart TV,29,24.4,50.4,18
+881,Premium,United States,Smartphone,91,72.1,47.5,61
+882,Basic,Canada,Smart TV,57,58.4,61.5,40
+883,Standard,United Kingdom,Tablet,53,47.8,54.1,35
+884,Premium,Australia,Tablet,56,45.9,49.1,32
+885,Basic,Germany,Tablet,60,62.8,62.8,36
+886,Premium,France,Smart TV,18,15.7,52.3,13
+887,Basic,Brazil,Laptop,11,9.6,52.3,6
+888,Standard,Mexico,Laptop,80,74.1,55.5,49
+889,Standard,Spain,Smartphone,53,48.8,55.2,38
+890,Basic,Italy,Smart TV,10,7.4,44.6,8
+891,Premium,Spain,Smart TV,30,29.1,58.3,20
+892,Basic,Spain,Tablet,60,59.5,59.5,41
+893,Standard,United States,Smart TV,29,24.6,50.9,17
+894,Premium,Canada,Smart TV,60,53.8,53.8,38
+895,Basic,United States,Smartphone,59,52.0,52.9,41
+896,Basic,United States,Smartphone,60,55.4,55.4,38
+897,Basic,Canada,Laptop,47,49.0,62.6,36
+898,Standard,United Kingdom,Tablet,30,30.8,61.6,20
+899,Premium,Australia,Laptop,71,66.0,55.8,41
+900,Basic,Germany,Smartphone,57,44.7,47.0,38
+901,Basic,France,Smartphone,54,55.0,61.1,36
+902,Premium,Brazil,Tablet,64,58.5,54.9,45
+903,Standard,Mexico,Laptop,17,13.8,48.8,10
+904,Standard,Spain,Tablet,37,32.5,52.7,28
+905,Basic,Italy,Laptop,61,59.4,58.4,41
+906,Premium,Spain,Smart TV,58,55.8,57.7,38
+907,Standard,Spain,Laptop,62,64.3,62.3,44
+908,Basic,United States,Smart TV,67,54.9,49.1,40
+909,Standard,Canada,Tablet,34,31.2,55.1,23
+910,Premium,United States,Smart TV,49,44.2,54.1,34
+911,Basic,United States,Smart TV,39,34.2,52.6,27
+912,Premium,Canada,Tablet,9,9.1,60.9,6
+913,Standard,United Kingdom,Laptop,44,35.0,47.8,28
+914,Basic,Australia,Smart TV,19,15.8,49.7,10
+915,Standard,Germany,Laptop,55,51.1,55.7,40
+916,Premium,France,Smartphone,21,18.4,52.6,15
+917,Basic,Brazil,Tablet,50,44.4,53.3,33
+918,Standard,Mexico,Smart TV,62,53.9,52.2,43
+919,Premium,Spain,Smartphone,15,11.4,45.6,13
+920,Basic,Italy,Tablet,45,40.3,53.8,32
+921,Premium,Spain,Smart TV,50,47.4,56.8,32
+922,Basic,Spain,Tablet,50,39.2,47.1,35
+923,Standard,United States,Tablet,41,37.1,54.3,29
+924,Standard,Canada,Smart TV,65,65.5,60.5,45
+925,Basic,United States,Laptop,28,27.1,58.2,18
+926,Premium,United States,Laptop,50,46.6,56.0,37
+927,Basic,Canada,Laptop,45,42.0,56.0,32
+928,Standard,United Kingdom,Smartphone,13,10.7,49.5,5
+929,Premium,Australia,Smart TV,68,62.4,55.0,43
+930,Basic,Germany,Laptop,57,42.8,45.0,39
+931,Premium,France,Laptop,77,57.7,44.9,46
+932,Basic,Brazil,Smart TV,74,66.7,54.0,46
+933,Standard,Mexico,Laptop,63,58.1,55.3,36
+934,Standard,Spain,Smartphone,54,44.1,49.0,40
+935,Basic,Italy,Smartphone,64,58.0,54.4,40
+936,Premium,Spain,Tablet,64,64.7,60.6,48
+937,Basic,Spain,Smartphone,78,71.0,54.6,52
+938,Standard,United States,Smart TV,26,23.8,54.8,19
+939,Premium,Canada,Tablet,16,12.7,47.8,11
+940,Basic,United States,Smart TV,102,100.7,59.3,63
+941,Premium,United States,Smart TV,58,53.1,54.9,38
+942,Basic,Canada,Laptop,74,67.1,54.4,56
+943,Standard,United Kingdom,Smart TV,71,63.4,53.6,51
+944,Standard,Australia,Tablet,88,77.1,52.5,61
+945,Basic,Germany,Laptop,43,38.0,53.0,30
+946,Premium,France,Laptop,12,7.5,37.8,9
+947,Basic,Brazil,Tablet,62,49.4,47.8,43
+948,Standard,Mexico,Laptop,13,12.1,55.9,8
+949,Premium,Spain,Tablet,15,13.5,54.1,9
+950,Basic,Italy,Tablet,41,41.4,60.6,26
+951,Premium,Spain,Smartphone,48,45.4,56.8,35
+952,Basic,Spain,Tablet,67,65.2,58.4,45
+953,Standard,United States,Laptop,42,31.8,45.5,28
+954,Standard,Canada,Smartphone,7,7.6,65.4,5
+955,Basic,United States,Laptop,87,75.1,51.8,57
+956,Premium,United States,Smart TV,79,70.8,53.8,54
+957,Basic,Canada,Tablet,75,64.8,51.9,46
+958,Standard,United Kingdom,Laptop,62,47.5,46.0,45
+959,Premium,Australia,Laptop,43,38.3,53.4,28
+960,Basic,Germany,Tablet,61,57.4,56.4,45
+961,Premium,France,Laptop,9,11.2,74.9,6
+962,Basic,Brazil,Laptop,76,68.2,53.8,47
+963,Standard,Mexico,Tablet,78,76.1,58.6,53
+964,Standard,Spain,Smart TV,14,10.7,46.0,12
+965,Basic,Italy,Laptop,51,46.8,55.1,38
+966,Premium,Spain,Laptop,38,40.5,63.9,27
+967,Basic,Spain,Smartphone,44,40.1,54.7,32
+968,Standard,United States,Tablet,6,5.8,57.7,5
+969,Premium,Canada,Smart TV,10,8.8,53.0,5
+970,Basic,United States,Tablet,68,55.1,48.6,42
+971,Basic,United States,Tablet,15,9.6,38.4,9
+972,Basic,Canada,Laptop,73,65.5,53.9,47
+973,Standard,United Kingdom,Smartphone,59,59.9,60.9,38
+974,Premium,Australia,Smartphone,15,13.6,54.2,10
+975,Basic,Germany,Smart TV,60,53.6,53.6,37
+976,Basic,France,Laptop,16,12.7,47.8,10
+977,Premium,Brazil,Laptop,21,21.1,60.3,16
+978,Standard,Mexico,Smart TV,65,62.2,57.4,40
+979,Standard,Spain,Smartphone,17,17.7,62.5,9
+980,Basic,Italy,Smart TV,41,36.2,52.9,28
+981,Premium,Spain,Smart TV,47,41.7,53.2,33
+982,Standard,Spain,Smart TV,53,50.1,56.7,39
+983,Basic,United States,Smartphone,16,11.6,43.3,13
+984,Standard,Canada,Smart TV,17,14.0,49.3,8
+985,Premium,United States,Smart TV,42,39.8,56.8,30
+986,Basic,United States,Laptop,38,42.1,66.6,26
+987,Premium,Canada,Tablet,54,48.7,54.1,35
+988,Standard,United Kingdom,Smartphone,39,40.6,62.5,29
+989,Basic,Australia,Smartphone,31,33.2,64.3,25
+990,Standard,Germany,Smartphone,42,38.9,55.5,28
+991,Premium,France,Smart TV,28,23.1,49.5,21
+992,Basic,Brazil,Smartphone,49,46.6,57.1,33
+993,Standard,Mexico,Laptop,47,39.8,50.9,30
+994,Premium,Spain,Tablet,13,8.9,41.2,8
+995,Basic,Italy,Tablet,47,44.2,56.4,31
+996,Premium,Spain,Tablet,55,49.5,54.0,33
+997,Basic,Spain,Tablet,46,44.3,57.8,33
+998,Standard,United States,Laptop,64,57.8,54.2,44
+999,Standard,Canada,Tablet,49,40.1,49.1,35
+1000,Basic,United States,Smartphone,62,55.9,54.1,41
+1001,Premium,United States,Laptop,70,60.6,51.9,47
+1002,Basic,Canada,Tablet,64,56.4,52.8,38
+1003,Standard,United Kingdom,Smart TV,14,14.3,61.1,7
+1004,Premium,Australia,Smart TV,10,8.5,51.2,7
+1005,Basic,Germany,Laptop,55,52.1,56.9,36
+1006,Premium,France,Smart TV,61,52.2,51.4,42
+1007,Basic,Brazil,Smart TV,67,55.5,49.7,47
+1008,Standard,Mexico,Smartphone,31,31.4,60.8,19
+1009,Standard,Spain,Laptop,58,53.3,55.2,41
+1010,Basic,Italy,Tablet,29,24.9,51.6,23
+1011,Premium,Spain,Smart TV,53,50.4,57.0,37
+1012,Basic,Spain,Smartphone,18,16.6,55.4,14
+1013,Standard,United States,Smart TV,72,57.2,47.7,47
+1014,Premium,Canada,Smartphone,15,15.0,60.1,12
+1015,Basic,United States,Laptop,68,58.5,51.6,44
+1016,Premium,United States,Tablet,66,56.1,51.0,48
+1017,Basic,Canada,Smartphone,61,58.5,57.5,41
+1018,Standard,United Kingdom,Tablet,11,11.3,61.9,6
+1019,Standard,Australia,Tablet,78,71.3,54.9,50
+1020,Basic,Germany,Tablet,73,72.0,59.2,52
+1021,Premium,France,Smart TV,79,60.7,46.1,46
+1022,Basic,Brazil,Laptop,11,9.7,52.8,8
+1023,Standard,Mexico,Laptop,91,83.2,54.9,59
+1024,Premium,Spain,Smartphone,61,52.9,52.0,42
+1025,Basic,Italy,Smartphone,8,6.7,50.3,5
+1026,Premium,Spain,Laptop,63,59.3,56.5,42
+1027,Basic,Spain,Tablet,62,48.3,46.7,47
+1028,Standard,United States,Tablet,26,24.8,57.2,20
+1029,Standard,Canada,Smartphone,61,52.0,51.2,37
+1030,Basic,United States,Smartphone,65,57.8,53.3,43
+1031,Premium,United States,Smart TV,73,61.7,50.7,42
+1032,Basic,Canada,Smartphone,77,72.3,56.3,49
+1033,Standard,United Kingdom,Tablet,29,33.8,70.0,21
+1034,Premium,Australia,Tablet,10,11.7,70.3,8
+1035,Basic,Germany,Smartphone,58,57.4,59.3,41
+1036,Premium,France,Smartphone,77,68.0,53.0,49
+1037,Basic,Brazil,Tablet,64,65.8,61.6,38
+1038,Standard,Mexico,Smartphone,46,46.9,61.2,33
+1039,Standard,Spain,Laptop,46,42.3,55.1,30
+1040,Basic,Italy,Smartphone,50,42.5,51.1,33
+1041,Premium,Spain,Laptop,48,43.6,54.6,35
+1042,Basic,Spain,Tablet,58,58.1,60.1,39
+1043,Standard,United States,Tablet,14,16.1,69.0,8
+1044,Premium,Canada,Tablet,42,34.2,48.9,28
+1045,Basic,United States,Tablet,58,60.4,62.4,42
+1046,Basic,United States,Laptop,13,12.2,56.3,7
+1047,Basic,Canada,Laptop,86,72.8,50.8,50
+1048,Standard,United Kingdom,Tablet,52,49.7,57.3,37
+1049,Premium,Australia,Smartphone,31,30.6,59.2,17
+1050,Basic,Germany,Smart TV,73,72.3,59.4,44
+1051,Basic,France,Laptop,50,46.9,56.3,34
+1052,Premium,Brazil,Tablet,7,7.6,64.9,5
+1053,Standard,Mexico,Smartphone,33,32.0,58.3,19
+1054,Standard,Spain,Tablet,48,45.1,56.4,33
+1055,Basic,Italy,Smartphone,48,37.0,46.3,35
+1056,Premium,Spain,Tablet,57,49.5,52.1,41
+1057,Standard,Spain,Tablet,48,35.0,43.7,35
+1058,Basic,United States,Smart TV,24,22.2,55.5,16
+1059,Standard,Canada,Tablet,24,23.8,59.4,14
+1060,Premium,United States,Laptop,36,33.2,55.3,25
+1061,Basic,United States,Tablet,41,40.7,59.6,28
+1062,Premium,Canada,Laptop,38,32.4,51.1,24
+1063,Standard,United Kingdom,Laptop,47,48.8,62.3,32
+1064,Basic,Australia,Tablet,49,37.0,45.2,32
+1065,Standard,Germany,Smart TV,15,11.5,46.1,12
+1066,Premium,France,Laptop,55,45.1,49.2,33
+1067,Basic,Brazil,Tablet,49,46.9,57.5,31
+1068,Standard,Mexico,Tablet,25,23.1,55.4,17
+1069,Premium,Spain,Smart TV,64,63.5,59.5,41
+1070,Basic,Italy,Tablet,12,10.4,52.0,8
+1071,Premium,Spain,Tablet,54,42.5,47.2,37
+1072,Basic,Spain,Tablet,55,52.9,57.7,36
+1073,Standard,United States,Smart TV,16,12.7,47.5,12
+1074,Standard,Canada,Smartphone,72,63.9,53.3,46
+1075,Basic,United States,Smart TV,57,52.1,54.8,38
+1076,Premium,United States,Laptop,61,57.8,56.9,40
+1077,Basic,Canada,Laptop,60,53.7,53.7,39
+1078,Standard,United Kingdom,Laptop,7,8.4,72.3,6
+1079,Premium,Australia,Tablet,27,27.1,60.1,21
+1080,Basic,Germany,Smartphone,34,36.1,63.8,26
+1081,Premium,France,Smartphone,68,62.9,55.5,47
+1082,Basic,Brazil,Tablet,22,17.1,46.6,16
+1083,Standard,Mexico,Laptop,21,23.1,66.1,12
+1084,Standard,Spain,Smartphone,78,66.6,51.2,53
+1085,Basic,Italy,Smartphone,55,48.5,52.9,38
+1086,Premium,Spain,Tablet,97,89.5,55.4,55
+1087,Basic,Spain,Tablet,67,56.8,50.8,42
+1088,Standard,United States,Smartphone,20,19.7,59.0,13
+1089,Premium,Canada,Tablet,73,55.3,45.5,48
+1090,Basic,United States,Smart TV,10,8.2,49.4,7
+1091,Premium,United States,Smartphone,54,53.3,59.2,34
+1092,Basic,Canada,Smart TV,19,16.0,50.6,13
+1093,Standard,United Kingdom,Smartphone,15,14.6,58.3,11
+1094,Standard,Australia,Tablet,29,24.3,50.3,22
+1095,Basic,Germany,Smartphone,55,50.0,54.6,42
+1096,Premium,France,Smartphone,87,81.6,56.3,58
+1097,Basic,Brazil,Smartphone,35,30.9,53.0,22
+1098,Standard,Mexico,Smartphone,27,20.9,46.4,19
+1099,Premium,Spain,Laptop,17,12.8,45.1,10
+1100,Basic,Italy,Laptop,78,76.3,58.7,52
+1101,Premium,Spain,Tablet,89,84.0,56.6,55
+1102,Basic,Spain,Smartphone,76,75.4,59.5,51
+1103,Standard,United States,Tablet,57,44.8,47.2,37
+1104,Standard,Canada,Smart TV,74,67.0,54.4,45
+1105,Basic,United States,Tablet,27,25.1,55.9,18
+1106,Premium,United States,Smart TV,63,59.2,56.3,39
+1107,Basic,Canada,Smart TV,55,44.2,48.2,36
+1108,Standard,United Kingdom,Laptop,78,75.9,58.4,46
+1109,Premium,Australia,Smartphone,53,45.7,51.8,38
+1110,Basic,Germany,Tablet,8,8.1,60.4,6
+1111,Premium,France,Smart TV,47,41.7,53.2,32
+1112,Basic,Brazil,Tablet,29,22.7,47.0,20
+1113,Standard,Mexico,Laptop,68,58.9,52.0,42
+1114,Standard,Spain,Smart TV,10,7.4,44.3,8
+1115,Basic,Italy,Laptop,60,57.0,57.0,35
+1116,Premium,Spain,Laptop,51,44.9,52.8,37
+1117,Basic,Spain,Tablet,48,37.3,46.6,36
+1118,Standard,United States,Smart TV,43,37.8,52.7,30
+1119,Premium,Canada,Smartphone,55,46.3,50.5,38
+1120,Basic,United States,Smartphone,38,29.2,46.1,24
+1121,Basic,United States,Smart TV,37,30.3,49.1,33
+1122,Basic,Canada,Smartphone,13,12.3,56.7,11
+1123,Standard,United Kingdom,Laptop,46,38.9,50.7,29
+1124,Premium,Australia,Laptop,58,57.9,59.8,35
+1125,Basic,Germany,Tablet,52,55.5,64.1,39
+1126,Basic,France,Laptop,19,18.9,59.6,10
+1127,Premium,Brazil,Tablet,55,50.1,54.7,42
+1128,Standard,Mexico,Tablet,44,39.0,53.2,26
+1129,Standard,Spain,Smartphone,47,38.1,48.7,32
+1130,Basic,Italy,Smart TV,45,37.5,50.0,29
+1131,Premium,Spain,Laptop,41,34.9,51.1,29
+1132,Standard,Spain,Laptop,18,15.3,50.9,8
+1133,Basic,United States,Laptop,16,12.3,45.9,10
+1134,Standard,Canada,Smart TV,17,18.7,65.9,10
+1135,Premium,United States,Laptop,72,76.8,64.0,43
+1136,Basic,United States,Smartphone,32,29.7,55.7,20
+1137,Premium,Canada,Smart TV,11,10.1,55.0,8
+1138,Standard,United Kingdom,Smartphone,12,7.6,38.0,9
+1139,Basic,Australia,Smartphone,10,12.3,74.0,7
+1140,Standard,Germany,Smart TV,40,39.1,58.6,25
+1141,Premium,France,Smart TV,60,55.0,55.0,41
+1142,Basic,Brazil,Laptop,27,23.8,52.9,15
+1143,Standard,Mexico,Smart TV,71,64.2,54.3,49
+1144,Premium,Spain,Tablet,10,9.8,58.9,7
+1145,Basic,Italy,Smart TV,61,55.6,54.7,43
+1146,Premium,Spain,Smartphone,43,36.7,51.2,32
+1147,Basic,Spain,Tablet,11,12.0,65.6,8
+1148,Standard,United States,Smartphone,12,10.6,53.0,7
+1149,Standard,Canada,Tablet,69,59.0,51.3,51
+1150,Basic,United States,Tablet,83,78.7,56.9,56
+1151,Premium,United States,Laptop,22,19.1,52.0,13
+1152,Basic,Canada,Smartphone,57,51.3,54.0,40
+1153,Standard,United Kingdom,Laptop,46,38.4,50.1,33
+1154,Premium,Australia,Laptop,43,37.4,52.2,32
+1155,Basic,Germany,Laptop,82,60.2,44.0,53
+1156,Premium,France,Laptop,84,84.0,60.0,57
+1157,Basic,Brazil,Smart TV,22,19.8,54.0,17
+1158,Standard,Mexico,Smart TV,41,35.1,51.3,22
+1159,Standard,Spain,Laptop,76,60.0,47.3,49
+1160,Basic,Italy,Smart TV,96,101.7,63.6,58
+1161,Premium,Spain,Smartphone,29,27.8,57.4,24
+1162,Basic,Spain,Smart TV,73,66.4,54.6,49
+1163,Standard,United States,Smart TV,67,63.0,56.4,44
+1164,Premium,Canada,Smart TV,93,87.0,56.2,61
+1165,Basic,United States,Smartphone,24,23.8,59.4,15
+1166,Premium,United States,Tablet,41,35.8,52.4,28
+1167,Basic,Canada,Tablet,62,64.9,62.8,40
+1168,Standard,United Kingdom,Laptop,86,83.3,58.1,49
+1169,Standard,Australia,Smartphone,23,16.6,43.3,14
+1170,Basic,Germany,Smart TV,24,20.5,51.2,19
+1171,Premium,France,Smartphone,79,83.8,63.7,46
+1172,Basic,Brazil,Smart TV,17,17.7,62.5,10
+1173,Standard,Mexico,Smartphone,22,22.0,60.0,13
+1174,Premium,Spain,Laptop,55,49.5,54.0,40
+1175,Basic,Italy,Laptop,13,12.4,57.2,12
+1176,Premium,Spain,Smart TV,75,63.4,50.7,51
+1177,Basic,Spain,Tablet,58,55.5,57.4,40
+1178,Standard,United States,Smart TV,74,67.3,54.6,49
+1179,Standard,Canada,Smartphone,55,47.7,52.0,41
+1180,Basic,United States,Smart TV,15,11.5,45.9,9
+1181,Premium,United States,Laptop,60,52.4,52.4,42
+1182,Basic,Canada,Smartphone,48,45.1,56.4,35
+1183,Standard,United Kingdom,Tablet,35,32.6,55.9,23
+1184,Premium,Australia,Laptop,59,51.0,51.9,39
+1185,Basic,Germany,Smart TV,47,45.6,58.2,35
+1186,Premium,France,Smart TV,13,14.9,68.8,9
+1187,Basic,Brazil,Smart TV,17,15.9,56.2,12
+1188,Standard,Mexico,Tablet,41,37.5,54.9,33
+1189,Standard,Spain,Smartphone,34,30.3,53.4,23
+1190,Basic,Italy,Laptop,62,53.0,51.3,38
+1191,Premium,Spain,Smartphone,61,51.5,50.7,38
+1192,Basic,Spain,Laptop,19,14.6,46.0,12
+1193,Standard,United States,Tablet,43,41.6,58.1,31
+1194,Premium,Canada,Smart TV,27,24.4,54.3,17
+1195,Basic,United States,Smart TV,8,8.3,62.6,7
+1196,Basic,United States,Tablet,62,48.5,46.9,40
+1197,Basic,Canada,Smart TV,39,35.0,53.8,24
+1198,Standard,United Kingdom,Laptop,47,44.7,57.0,30
+1199,Premium,Australia,Smart TV,54,44.5,49.4,37
+1200,Basic,Germany,Smartphone,5,4.7,56.6,3
+1201,Basic,France,Smart TV,46,38.0,49.6,31
+1202,Premium,Brazil,Smart TV,46,46.3,60.4,34
+1203,Standard,Mexico,Smart TV,29,28.4,58.7,17
+1204,Standard,Spain,Laptop,23,20.7,54.0,17
+1205,Basic,Italy,Laptop,53,39.3,44.4,34
+1206,Premium,Spain,Smart TV,33,32.2,58.5,24
+1207,Standard,Spain,Smart TV,36,36.4,60.6,25
+1208,Basic,United States,Smartphone,46,39.6,51.6,32
+1209,Standard,Canada,Tablet,9,11.0,73.6,5
+1210,Premium,United States,Smart TV,41,41.7,61.1,29
+1211,Basic,United States,Laptop,23,22.1,57.6,15
+1212,Premium,Canada,Tablet,70,61.0,52.3,51
+1213,Standard,United Kingdom,Smart TV,53,48.6,55.1,41
+1214,Basic,Australia,Smartphone,68,51.9,45.8,46
+1215,Standard,Germany,Laptop,9,9.0,59.9,5
+1216,Premium,France,Tablet,14,11.6,49.5,10
+1217,Basic,Brazil,Laptop,29,25.8,53.3,22
+1218,Standard,Mexico,Laptop,58,47.4,49.1,43
+1219,Premium,Spain,Smartphone,39,35.5,54.6,25
+1220,Basic,Italy,Smart TV,17,17.0,60.1,11
+1221,Premium,Spain,Smart TV,22,22.5,61.5,13
+1222,Basic,Spain,Tablet,23,24.4,63.8,15
+1223,Standard,United States,Smartphone,64,58.9,55.3,44
+1224,Standard,Canada,Smartphone,60,58.9,58.9,40
+1225,Basic,United States,Smart TV,68,58.9,51.9,45
+1226,Premium,United States,Smartphone,81,73.0,54.0,53
+1227,Basic,Canada,Tablet,59,51.1,52.0,37
+1228,Standard,United Kingdom,Tablet,56,44.0,47.2,39
+1229,Premium,Australia,Smartphone,34,24.9,43.9,24
+1230,Basic,Germany,Smart TV,4,3.6,53.8,4
+1231,Premium,France,Tablet,65,62.0,57.2,42
+1232,Basic,Brazil,Smartphone,82,77.8,57.0,61
+1233,Standard,Mexico,Smartphone,74,66.3,53.8,51
+1234,Standard,Spain,Smartphone,32,31.3,58.7,17
+1235,Basic,Italy,Tablet,71,62.7,53.0,47
+1236,Premium,Spain,Tablet,59,48.5,49.3,40
+1237,Basic,Spain,Tablet,25,24.9,59.8,18
+1238,Standard,United States,Smartphone,29,27.4,56.6,21
+1239,Premium,Canada,Laptop,49,40.3,49.4,29
+1240,Basic,United States,Laptop,69,61.2,53.2,49
+1241,Premium,United States,Laptop,71,74.4,62.9,49
+1242,Basic,Canada,Tablet,29,25.8,53.3,18
+1243,Standard,United Kingdom,Smartphone,66,56.9,51.7,46
+1244,Standard,Australia,Tablet,26,23.8,55.0,18
+1245,Basic,Germany,Smartphone,9,8.0,53.3,6
+1246,Premium,France,Smartphone,53,48.4,54.8,34
+1247,Basic,Brazil,Smartphone,73,67.9,55.8,48
+1248,Standard,Mexico,Smart TV,49,46.9,57.4,32
+1249,Premium,Spain,Smart TV,19,17.6,55.4,13
+1250,Basic,Italy,Smartphone,49,45.9,56.2,31
+1251,Premium,Spain,Tablet,26,22.5,52.0,21
+1252,Basic,Spain,Laptop,66,54.2,49.3,43
+1253,Standard,United States,Laptop,52,44.0,50.8,39
+1254,Standard,Canada,Tablet,56,51.9,55.6,37
+1255,Basic,United States,Smart TV,73,66.0,54.2,47
+1256,Premium,United States,Laptop,49,40.0,48.9,33
+1257,Basic,Canada,Smart TV,73,68.2,56.0,49
+1258,Standard,United Kingdom,Tablet,50,45.1,54.2,29
+1259,Premium,Australia,Laptop,62,54.3,52.5,41
+1260,Basic,Germany,Laptop,51,47.2,55.6,36
+1261,Premium,France,Smart TV,54,51.1,56.8,33
+1262,Basic,Brazil,Smart TV,57,58.8,61.9,36
+1263,Standard,Mexico,Tablet,58,53.3,55.2,39
+1264,Standard,Spain,Smart TV,44,38.6,52.7,31
+1265,Basic,Italy,Tablet,56,53.1,56.9,36
+1266,Premium,Spain,Laptop,53,44.6,50.5,35
+1267,Basic,Spain,Tablet,46,42.6,55.5,32
+1268,Standard,United States,Laptop,55,45.3,49.4,34
+1269,Premium,Canada,Smartphone,46,46.5,60.6,27
+1270,Basic,United States,Smart TV,52,40.7,46.9,33
+1271,Basic,United States,Smartphone,27,24.5,54.4,16
+1272,Basic,Canada,Smartphone,38,34.8,54.9,23
+1273,Standard,United Kingdom,Tablet,10,11.5,69.2,8
+1274,Premium,Australia,Smart TV,52,47.2,54.5,35
+1275,Basic,Germany,Smartphone,16,17.5,65.6,12
+1276,Basic,France,Laptop,53,45.6,51.6,36
+1277,Premium,Brazil,Smartphone,13,13.6,62.7,8
+1278,Standard,Mexico,Laptop,20,17.6,52.8,14
+1279,Standard,Spain,Tablet,20,18.5,55.5,14
+1280,Basic,Italy,Laptop,31,31.5,61.0,24
+1281,Premium,Spain,Laptop,38,33.0,52.1,22
+1282,Standard,Spain,Tablet,52,48.1,55.5,31
+1283,Basic,United States,Laptop,5,3.9,46.8,5
+1284,Standard,Canada,Tablet,42,37.1,53.0,31
+1285,Premium,United States,Smart TV,71,65.4,55.3,48
+1286,Basic,United States,Laptop,61,53.6,52.7,39
+1287,Premium,Canada,Tablet,70,64.8,55.5,46
+1288,Standard,United Kingdom,Smartphone,83,70.9,51.3,56
+1289,Basic,Australia,Tablet,72,67.9,56.6,46
+1290,Standard,Germany,Laptop,27,28.3,62.9,18
+1291,Premium,France,Laptop,25,19.5,46.8,19
+1292,Basic,Brazil,Smart TV,17,16.9,59.6,12
+1293,Standard,Mexico,Tablet,28,24.3,52.1,19
+1294,Premium,Spain,Smartphone,21,21.9,62.5,14
+1295,Basic,Italy,Smartphone,75,71.5,57.2,47
+1296,Premium,Spain,Smart TV,64,68.3,64.0,41
+1297,Basic,Spain,Smartphone,91,85.9,56.7,62
+1298,Standard,United States,Laptop,74,74.3,60.2,46
+1299,Standard,Canada,Smart TV,37,27.7,45.0,23
+1300,Basic,United States,Laptop,89,81.2,54.7,59
+1301,Premium,United States,Smart TV,12,10.3,51.5,8
+1302,Basic,Canada,Smart TV,60,56.9,56.9,41
+1303,Standard,United Kingdom,Laptop,39,34.4,52.8,27
+1304,Premium,Australia,Laptop,28,24.1,51.7,19
+1305,Basic,Germany,Smartphone,93,84.6,54.6,58
+1306,Premium,France,Laptop,9,9.8,65.2,6
+1307,Basic,Brazil,Tablet,79,66.7,50.7,59
+1308,Standard,Mexico,Tablet,81,75.7,56.1,51
+1309,Standard,Spain,Tablet,45,36.9,49.2,35
+1310,Basic,Italy,Laptop,65,58.9,54.4,48
+1311,Premium,Spain,Tablet,73,72.6,59.7,46
+1312,Basic,Spain,Laptop,9,6.8,45.1,6
+1313,Standard,United States,Smart TV,66,58.1,52.8,49
+1314,Premium,Canada,Tablet,63,52.4,49.9,40
+1315,Basic,United States,Smartphone,63,54.5,51.9,44
+1316,Premium,United States,Tablet,48,49.5,61.8,32
+1317,Basic,Canada,Tablet,60,55.3,55.3,40
+1318,Standard,United Kingdom,Smartphone,12,11.0,54.9,7
+1319,Standard,Australia,Smartphone,41,39.9,58.3,27
+1320,Basic,Germany,Laptop,11,9.5,51.9,8
+1321,Premium,France,Tablet,59,50.0,50.9,34
+1322,Basic,Brazil,Smartphone,13,15.4,71.2,7
+1323,Standard,Mexico,Smartphone,58,49.1,50.8,35
+1324,Premium,Spain,Smart TV,46,45.0,58.8,27
+1325,Basic,Italy,Smartphone,46,43.3,56.5,34
+1326,Premium,Spain,Smartphone,6,5.9,58.7,6
+1327,Basic,Spain,Laptop,52,44.5,51.3,34
+1328,Standard,United States,Tablet,36,30.9,51.5,26
+1329,Standard,Canada,Laptop,60,57.5,57.5,40
+1330,Basic,United States,Smart TV,51,41.4,48.7,35
+1331,Premium,United States,Smartphone,13,11.7,54.1,9
+1332,Basic,Canada,Smartphone,18,17.7,58.9,12
+1333,Standard,United Kingdom,Tablet,44,37.9,51.7,26
+1334,Premium,Australia,Smart TV,35,28.4,48.7,26
+1335,Basic,Germany,Tablet,66,62.7,57.0,44
+1336,Premium,France,Tablet,68,60.1,53.1,44
+1337,Basic,Brazil,Tablet,52,47.6,54.9,36
+1338,Standard,Mexico,Laptop,50,47.4,56.9,33
+1339,Standard,Spain,Laptop,42,39.8,56.9,33
+1340,Basic,Italy,Smartphone,45,46.9,62.5,29
+1341,Premium,Spain,Smart TV,31,30.7,59.5,23
+1342,Basic,Spain,Laptop,33,28.6,51.9,22
+1343,Standard,United States,Tablet,60,61.4,61.4,40
+1344,Premium,Canada,Smartphone,48,42.7,53.3,37
+1345,Basic,United States,Smart TV,18,13.2,43.9,11
+1346,Basic,United States,Smart TV,5,6.3,75.4,3
+1347,Basic,Canada,Smart TV,65,63.2,58.3,39
+1348,Standard,United Kingdom,Laptop,54,49.8,55.4,36
+1349,Premium,Australia,Laptop,56,56.1,60.1,39
+1350,Basic,Germany,Smartphone,40,33.4,50.1,31
+1351,Basic,France,Laptop,53,51.5,58.3,36
+1352,Premium,Brazil,Laptop,65,54.2,50.0,41
+1353,Standard,Mexico,Tablet,74,67.2,54.5,51
+1354,Standard,Spain,Tablet,8,7.2,54.0,6
+1355,Basic,Italy,Tablet,61,54.3,53.4,45
+1356,Premium,Spain,Smartphone,77,58.9,45.9,48
+1357,Standard,Spain,Smart TV,62,48.3,46.7,37
+1358,Basic,United States,Tablet,51,45.1,53.0,34
+1359,Standard,Canada,Laptop,39,39.8,61.2,25
+1360,Premium,United States,Smart TV,16,9.8,36.9,12
+1361,Basic,United States,Laptop,36,30.9,51.6,25
+1362,Premium,Canada,Laptop,34,35.0,61.7,20
+1363,Standard,United Kingdom,Laptop,75,61.6,49.3,51
+1364,Basic,Australia,Tablet,54,53.3,59.3,34
+1365,Standard,Germany,Smartphone,41,32.6,47.7,27
+1366,Premium,France,Laptop,88,68.3,46.6,58
+1367,Basic,Brazil,Smartphone,73,65.6,53.9,51
+1368,Standard,Mexico,Laptop,25,21.4,51.3,18
+1369,Premium,Spain,Laptop,99,93.8,56.8,59
+1370,Basic,Italy,Tablet,65,56.4,52.1,45
+1371,Premium,Spain,Laptop,14,11.7,49.9,9
+1372,Basic,Spain,Laptop,72,63.9,53.2,50
+1373,Standard,United States,Laptop,66,57.6,52.3,37
+1374,Standard,Canada,Smart TV,60,53.5,53.5,41
+1375,Basic,United States,Laptop,21,21.2,60.6,15
+1376,Premium,United States,Tablet,33,31.9,58.1,24
+1377,Basic,Canada,Smart TV,24,22.5,56.3,13
+1378,Standard,United Kingdom,Smart TV,24,23.8,59.4,15
+1379,Premium,Australia,Smartphone,39,35.5,54.7,25
+1380,Basic,Germany,Laptop,59,59.3,60.3,40
+1381,Premium,France,Smart TV,40,38.1,57.2,25
+1382,Basic,Brazil,Smart TV,53,49.0,55.4,35
+1383,Standard,Mexico,Tablet,6,5.8,58.3,6
+1384,Standard,Spain,Smart TV,73,65.3,53.7,48
+1385,Basic,Italy,Smartphone,65,52.1,48.1,47
+1386,Premium,Spain,Smart TV,58,55.3,57.2,36
+1387,Basic,Spain,Smart TV,61,60.0,59.0,42
+1388,Standard,United States,Smartphone,6,7.2,71.5,4
+1389,Premium,Canada,Smartphone,36,35.8,59.7,22
+1390,Basic,United States,Laptop,47,45.4,57.9,27
+1391,Premium,United States,Tablet,21,24.0,68.7,13
+1392,Basic,Canada,Tablet,50,48.4,58.1,33
+1393,Standard,United Kingdom,Smart TV,37,34.9,56.6,27
+1394,Standard,Australia,Tablet,15,17.6,70.5,9
+1395,Basic,Germany,Tablet,32,34.1,64.0,24
+1396,Premium,France,Smart TV,43,39.1,54.6,26
+1397,Basic,Brazil,Laptop,61,56.2,55.2,43
+1398,Standard,Mexico,Smart TV,53,50.0,56.7,34
+1399,Premium,Spain,Smart TV,62,47.2,45.7,44
+1400,Basic,Italy,Laptop,13,11.9,55.2,8
+1401,Premium,Spain,Smart TV,49,43.1,52.8,32
+1402,Basic,Spain,Laptop,34,32.1,56.7,23
+1403,Standard,United States,Laptop,40,39.3,59.0,29
+1404,Standard,Canada,Tablet,10,9.0,54.2,6
+1405,Basic,United States,Smart TV,23,23.1,60.1,16
+1406,Premium,United States,Smart TV,36,31.9,53.1,23
+1407,Basic,Canada,Smart TV,60,53.6,53.6,36
+1408,Standard,United Kingdom,Smart TV,47,43.1,55.0,33
+1409,Premium,Australia,Tablet,62,59.9,57.9,39
+1410,Basic,Germany,Tablet,37,33.5,54.4,22
+1411,Premium,France,Smart TV,17,16.6,58.6,12
+1412,Basic,Brazil,Laptop,40,36.8,55.1,26
+1413,Standard,Mexico,Smartphone,46,39.9,52.1,31
+1414,Standard,Spain,Tablet,65,61.0,56.3,41
+1415,Basic,Italy,Smart TV,37,36.5,59.1,23
+1416,Premium,Spain,Smart TV,50,42.6,51.2,33
+1417,Basic,Spain,Tablet,16,18.3,68.4,11
+1418,Standard,United States,Smart TV,51,48.4,56.9,31
+1419,Premium,Canada,Smartphone,47,42.1,53.7,32
+1420,Basic,United States,Smartphone,36,30.4,50.7,25
+1421,Basic,United States,Smart TV,56,45.3,48.6,39
+1422,Basic,Canada,Laptop,18,17.1,57.1,14
+1423,Standard,United Kingdom,Smart TV,68,61.8,54.6,46
+1424,Premium,Australia,Laptop,50,46.1,55.3,36
+1425,Basic,Germany,Smartphone,77,62.5,48.7,48
+1426,Basic,France,Smart TV,71,65.5,55.3,50
+1427,Premium,Brazil,Tablet,57,48.0,50.5,38
+1428,Standard,Mexico,Smart TV,74,62.9,51.0,51
+1429,Standard,Spain,Laptop,8,8.8,65.6,6
+1430,Basic,Italy,Smart TV,78,65.7,50.5,45
+1431,Premium,Spain,Laptop,9,10.4,69.6,7
+1432,Standard,Spain,Smartphone,63,62.0,59.0,36
+1433,Basic,United States,Tablet,53,47.2,53.5,37
+1434,Standard,Canada,Laptop,13,10.2,46.8,10
+1435,Premium,United States,Smartphone,90,73.5,49.0,61
+1436,Basic,United States,Smart TV,77,59.8,46.6,53
+1437,Premium,Canada,Laptop,16,14.9,55.9,12
+1438,Standard,United Kingdom,Smartphone,68,61.2,54.0,45
+1439,Basic,Australia,Laptop,62,57.5,55.7,42
+1440,Standard,Germany,Smart TV,45,41.9,55.8,30
+1441,Premium,France,Tablet,34,33.5,59.2,21
+1442,Basic,Brazil,Smart TV,56,57.5,61.6,35
+1443,Standard,Mexico,Laptop,59,46.9,47.7,40
+1444,Premium,Spain,Tablet,13,14.8,68.3,11
+1445,Basic,Italy,Smartphone,63,56.0,53.4,46
+1446,Premium,Spain,Tablet,43,35.5,49.5,31
+1447,Basic,Spain,Tablet,69,59.6,51.8,47
+1448,Standard,United States,Laptop,74,67.4,54.7,51
+1449,Standard,Canada,Laptop,22,24.0,65.5,15
+1450,Basic,United States,Smartphone,64,56.3,52.7,46
+1451,Premium,United States,Tablet,39,35.1,54.1,26
+1452,Basic,Canada,Smart TV,17,16.7,58.9,11
+1453,Standard,United Kingdom,Smartphone,57,50.2,52.8,38
+1454,Premium,Australia,Smartphone,18,19.6,65.2,13
+1455,Basic,Germany,Smart TV,18,16.4,54.8,12
+1456,Premium,France,Laptop,63,60.1,57.2,45
+1457,Basic,Brazil,Laptop,51,45.8,53.9,34
+1458,Standard,Mexico,Tablet,62,55.0,53.3,40
+1459,Standard,Spain,Laptop,82,67.8,49.6,46
+1460,Basic,Italy,Smart TV,61,52.3,51.4,44
+1461,Premium,Spain,Smart TV,61,58.3,57.4,37
+1462,Basic,Spain,Smartphone,64,56.3,52.7,40
+1463,Standard,United States,Smart TV,8,6.0,45.3,6
+1464,Premium,Canada,Laptop,63,60.0,57.1,38
+1465,Basic,United States,Laptop,6,5.6,56.0,4
+1466,Premium,United States,Smart TV,12,12.8,64.2,8
+1467,Basic,Canada,Smartphone,26,26.9,62.1,15
+1468,Standard,United Kingdom,Laptop,20,10.9,32.7,12
+1469,Standard,Australia,Smart TV,42,35.4,50.5,27
+1470,Basic,Germany,Tablet,49,42.5,52.1,37
+1471,Premium,France,Smartphone,44,37.0,50.5,29
+1472,Basic,Brazil,Laptop,58,57.3,59.3,40
+1473,Standard,Mexico,Smartphone,51,48.1,56.6,35
+1474,Premium,Spain,Laptop,52,43.8,50.5,33
+1475,Basic,Italy,Laptop,45,42.0,56.0,29
+1476,Premium,Spain,Tablet,43,39.5,55.0,29
+1477,Basic,Spain,Smart TV,61,55.9,55.0,38
+1478,Standard,United States,Smart TV,9,8.3,55.2,5
+1479,Standard,Canada,Smart TV,42,42.5,60.7,31
+1480,Basic,United States,Laptop,12,10.8,53.8,8
+1481,Premium,United States,Laptop,53,47.8,54.1,35
+1482,Basic,Canada,Smartphone,57,54.0,56.8,35
+1483,Standard,United Kingdom,Smart TV,48,44.7,55.9,32
+1484,Premium,Australia,Smart TV,62,65.2,63.1,42
+1485,Basic,Germany,Laptop,6,4.9,49.2,5
+1486,Premium,France,Smartphone,5,4.2,49.8,5
+1487,Basic,Brazil,Smartphone,38,34.2,53.9,28
+1488,Standard,Mexico,Smart TV,64,61.0,57.2,40
+1489,Standard,Spain,Smart TV,27,23.7,52.6,22
+1490,Basic,Italy,Smartphone,58,48.0,49.7,33
+1491,Premium,Spain,Laptop,48,45.3,56.6,28
+1492,Basic,Spain,Laptop,54,50.9,56.6,34
+1493,Standard,United States,Laptop,20,17.9,53.6,11
+1494,Premium,Canada,Smartphone,13,10.3,47.7,9
+1495,Basic,United States,Tablet,63,55.4,52.8,42
+1496,Basic,United States,Tablet,43,43.6,60.8,25
+1497,Basic,Canada,Smart TV,58,49.5,51.2,42
+1498,Standard,United Kingdom,Smartphone,57,48.0,50.6,37
+1499,Premium,Australia,Smart TV,16,15.0,56.4,10
+1500,Basic,Germany,Tablet,43,35.2,49.1,30
+1501,Basic,France,Smart TV,48,46.9,58.6,31
+1502,Premium,Brazil,Laptop,71,62.3,52.7,48
+1503,Standard,Mexico,Laptop,17,16.2,57.1,12
+1504,Standard,Spain,Smart TV,10,7.3,44.0,9
+1505,Basic,Italy,Laptop,76,74.2,58.6,53
+1506,Premium,Spain,Smartphone,53,48.5,54.9,35
+1507,Standard,Spain,Tablet,10,9.9,59.6,7
+1508,Basic,United States,Laptop,43,35.5,49.6,33
+1509,Standard,Canada,Smartphone,73,65.2,53.6,51
+1510,Premium,United States,Smart TV,27,26.0,57.9,17
+1511,Basic,United States,Smart TV,67,57.3,51.3,46
+1512,Premium,Canada,Smart TV,91,84.8,55.9,56
+1513,Standard,United Kingdom,Smartphone,65,53.9,49.8,45
+1514,Basic,Australia,Smartphone,77,74.3,57.9,50
+1515,Standard,Germany,Smart TV,68,57.7,50.9,46
+1516,Premium,France,Laptop,81,73.8,54.6,51
+1517,Basic,Brazil,Smart TV,69,61.7,53.7,44
+1518,Standard,Mexico,Smart TV,57,50.9,53.6,34
+1519,Premium,Spain,Tablet,52,43.2,49.9,38
+1520,Basic,Italy,Smartphone,59,52.1,53.0,39
+1521,Premium,Spain,Tablet,81,70.2,52.0,53
+1522,Basic,Spain,Laptop,28,23.4,50.0,18
+1523,Standard,United States,Smart TV,19,16.0,50.5,15
+1524,Standard,Canada,Smartphone,4,1.4,21.5,4
+1525,Basic,United States,Tablet,36,33.0,55.1,22
+1526,Premium,United States,Tablet,62,59.7,57.8,40
+1527,Basic,Canada,Smart TV,47,40.6,51.8,34
+1528,Standard,United Kingdom,Smart TV,70,68.6,58.8,49
+1529,Premium,Australia,Laptop,17,13.3,46.9,11
+1530,Basic,Germany,Smartphone,49,50.5,61.8,36
+1531,Premium,France,Tablet,38,31.5,49.7,25
+1532,Basic,Brazil,Tablet,69,61.5,53.5,46
+1533,Standard,Mexico,Tablet,54,49.8,55.4,37
+1534,Standard,Spain,Tablet,58,57.2,59.1,44
+1535,Basic,Italy,Smart TV,72,68.4,57.0,46
+1536,Premium,Spain,Laptop,45,39.6,52.9,32
+1537,Basic,Spain,Tablet,46,36.7,47.9,30
+1538,Standard,United States,Smart TV,60,51.9,51.9,42
+1539,Premium,Canada,Laptop,55,56.8,62.0,36
+1540,Basic,United States,Laptop,49,49.3,60.4,29
+1541,Premium,United States,Smartphone,39,36.5,56.1,27
+1542,Basic,Canada,Smart TV,60,65.4,65.4,41
+1543,Standard,United Kingdom,Laptop,51,45.5,53.6,38
+1544,Standard,Australia,Tablet,15,13.8,55.1,7
+1545,Basic,Germany,Laptop,55,55.6,60.7,38
+1546,Premium,France,Smart TV,18,13.8,45.8,14
+1547,Basic,Brazil,Smartphone,49,44.8,54.8,31
+1548,Standard,Mexico,Tablet,58,57.4,59.3,39
+1549,Premium,Spain,Tablet,57,55.7,58.7,35
+1550,Basic,Italy,Smart TV,34,32.6,57.5,27
+1551,Premium,Spain,Tablet,46,49.4,64.5,31
+1552,Basic,Spain,Tablet,51,43.4,51.1,37
+1553,Standard,United States,Tablet,15,11.2,44.7,13
+1554,Standard,Canada,Laptop,46,43.9,57.2,31
+1555,Basic,United States,Smartphone,51,49.0,57.6,36
+1556,Premium,United States,Smartphone,66,63.3,57.6,42
+1557,Basic,Canada,Smart TV,58,53.6,55.5,41
+1558,Standard,United Kingdom,Smartphone,61,53.8,52.9,42
+1559,Premium,Australia,Tablet,28,22.9,49.1,19
+1560,Basic,Germany,Smart TV,57,54.8,57.6,40
+1561,Premium,France,Laptop,62,61.7,59.7,42
+1562,Basic,Brazil,Smartphone,30,25.8,51.6,21
+1563,Standard,Mexico,Laptop,42,39.8,56.9,31
+1564,Standard,Spain,Tablet,63,63.2,60.2,44
+1565,Basic,Italy,Smart TV,60,57.0,57.0,42
+1566,Premium,Spain,Laptop,48,42.5,53.2,32
+1567,Basic,Spain,Smartphone,65,56.2,51.9,41
+1568,Standard,United States,Smart TV,28,22.8,48.8,19
+1569,Premium,Canada,Tablet,23,21.4,55.9,15
+1570,Basic,United States,Tablet,82,72.2,52.8,52
+1571,Basic,United States,Tablet,92,74.0,48.3,59
+1572,Basic,Canada,Laptop,65,61.5,56.7,46
+1573,Standard,United Kingdom,Smart TV,49,43.5,53.2,33
+1574,Premium,Australia,Smart TV,64,56.5,53.0,42
+1575,Basic,Germany,Laptop,84,74.8,53.4,51
+1576,Basic,France,Smartphone,75,74.8,59.9,52
+1577,Premium,Brazil,Tablet,73,66.4,54.5,49
+1578,Standard,Mexico,Laptop,87,73.5,50.7,59
+1579,Standard,Spain,Smart TV,75,71.2,57.0,50
+1580,Basic,Italy,Smart TV,65,70.3,64.9,47
+1581,Premium,Spain,Smart TV,111,97.4,52.7,73
+1582,Standard,Spain,Smart TV,70,59.7,51.2,50
+1583,Basic,United States,Tablet,53,49.3,55.8,35
+1584,Standard,Canada,Tablet,18,18.7,62.3,12
+1585,Premium,United States,Laptop,43,38.8,54.1,27
+1586,Basic,United States,Tablet,41,36.0,52.7,32
+1587,Premium,Canada,Tablet,69,61.0,53.0,46
+1588,Standard,United Kingdom,Tablet,5,4.9,59.2,4
+1589,Basic,Australia,Tablet,78,71.8,55.2,49
+1590,Standard,Germany,Smart TV,50,47.6,57.1,34
+1591,Premium,France,Laptop,58,55.3,57.2,42
+1592,Basic,Brazil,Tablet,58,59.0,61.0,42
+1593,Standard,Mexico,Smartphone,11,9.9,54.2,7
+1594,Premium,Spain,Tablet,80,79.4,59.5,52
+1595,Basic,Italy,Tablet,25,23.3,55.9,16
+1596,Premium,Spain,Laptop,58,57.6,59.6,39
+1597,Basic,Spain,Smart TV,14,12.7,54.4,9
+1598,Standard,United States,Laptop,57,50.5,53.1,37
+1599,Standard,Canada,Smart TV,50,38.6,46.3,34
+1600,Basic,United States,Tablet,62,56.1,54.3,42
+1601,Premium,United States,Smartphone,72,64.3,53.6,47
+1602,Basic,Canada,Smart TV,69,69.3,60.3,42
+1603,Standard,United Kingdom,Smartphone,10,9.8,58.7,6
+1604,Premium,Australia,Smartphone,60,46.5,46.5,42
+1605,Basic,Germany,Laptop,63,57.4,54.7,38
+1606,Premium,France,Smartphone,26,21.9,50.5,17
+1607,Basic,Brazil,Smartphone,47,42.4,54.1,31
+1608,Standard,Mexico,Smart TV,62,54.0,52.3,42
+1609,Standard,Spain,Smart TV,51,41.5,48.8,29
+1610,Basic,Italy,Smart TV,29,25.4,52.5,21
+1611,Premium,Spain,Laptop,61,54.0,53.1,36
+1612,Basic,Spain,Smartphone,64,61.0,57.1,42
+1613,Standard,United States,Smartphone,44,36.9,50.3,29
+1614,Premium,Canada,Tablet,45,36.6,48.8,29
+1615,Basic,United States,Smart TV,26,21.6,50.0,14
+1616,Premium,United States,Laptop,55,45.4,49.6,32
+1617,Basic,Canada,Tablet,10,8.3,49.7,7
+1618,Standard,United Kingdom,Smart TV,46,41.2,53.7,33
+1619,Standard,Australia,Laptop,61,57.1,56.2,43
+1620,Basic,Germany,Smartphone,62,64.4,62.3,38
+1621,Premium,France,Laptop,59,54.6,55.6,39
+1622,Basic,Brazil,Smart TV,53,48.5,54.9,34
+1623,Standard,Mexico,Laptop,44,44.7,60.9,29
+1624,Premium,Spain,Smartphone,52,50.3,58.0,35
+1625,Basic,Italy,Smart TV,66,60.5,55.0,36
+1626,Premium,Spain,Smart TV,69,68.5,59.5,44
+1627,Basic,Spain,Smartphone,60,50.3,50.3,45
+1628,Standard,United States,Laptop,7,4.5,38.7,5
+1629,Standard,Canada,Smart TV,63,56.0,53.4,46
+1630,Basic,United States,Smart TV,18,19.6,65.4,12
+1631,Premium,United States,Laptop,6,5.7,56.8,5
+1632,Basic,Canada,Laptop,56,54.0,57.8,41
+1633,Standard,United Kingdom,Tablet,74,73.9,59.9,49
+1634,Premium,Australia,Smart TV,58,54.6,56.4,38
+1635,Basic,Germany,Tablet,18,16.3,54.2,14
+1636,Premium,France,Smart TV,56,51.4,55.1,36
+1637,Basic,Brazil,Laptop,14,12.3,52.9,7
+1638,Standard,Mexico,Tablet,71,60.3,50.9,48
+1639,Standard,Spain,Laptop,65,59.6,55.0,42
+1640,Basic,Italy,Smart TV,56,55.8,59.8,36
+1641,Premium,Spain,Tablet,76,68.8,54.3,48
+1642,Basic,Spain,Tablet,21,20.6,58.8,14
+1643,Standard,United States,Tablet,80,71.3,53.5,55
+1644,Premium,Canada,Smartphone,73,72.4,59.5,48
+1645,Basic,United States,Laptop,60,53.1,53.1,40
+1646,Basic,United States,Tablet,72,61.6,51.4,49
+1647,Basic,Canada,Laptop,13,9.0,41.4,10
+1648,Standard,United Kingdom,Smartphone,23,26.5,69.2,13
+1649,Premium,Australia,Tablet,62,53.6,51.8,42
+1650,Basic,Germany,Tablet,20,20.7,62.0,13
+1651,Basic,France,Smart TV,22,21.1,57.7,15
+1652,Premium,Brazil,Tablet,48,42.0,52.6,33
+1653,Standard,Mexico,Smartphone,11,11.2,61.3,7
+1654,Standard,Spain,Tablet,76,68.3,53.9,43
+1655,Basic,Italy,Tablet,31,30.9,59.9,16
+1656,Premium,Spain,Smartphone,72,74.5,62.1,46
+1657,Standard,Spain,Smartphone,71,63.6,53.7,42
+1658,Basic,United States,Laptop,35,32.0,54.9,21
+1659,Standard,Canada,Smartphone,63,54.6,52.0,41
+1660,Premium,United States,Tablet,65,57.0,52.6,43
+1661,Basic,United States,Laptop,60,55.3,55.3,44
+1662,Premium,Canada,Smartphone,60,58.2,58.2,41
+1663,Standard,United Kingdom,Smartphone,49,41.7,51.0,32
+1664,Basic,Australia,Laptop,21,16.4,47.0,14
+1665,Standard,Germany,Smartphone,8,6.9,52.0,6
+1666,Premium,France,Laptop,60,56.0,56.0,42
+1667,Basic,Brazil,Tablet,58,49.8,51.5,43
+1668,Standard,Mexico,Tablet,42,40.0,57.1,26
+1669,Premium,Spain,Tablet,64,57.5,53.9,46
+1670,Basic,Italy,Tablet,48,39.2,49.0,32
+1671,Premium,Spain,Smartphone,8,8.6,64.8,5
+1672,Basic,Spain,Tablet,59,62.6,63.6,35
+1673,Standard,United States,Tablet,81,71.9,53.2,53
+1674,Standard,Canada,Smart TV,34,29.1,51.3,24
+1675,Basic,United States,Laptop,62,54.8,53.1,44
+1676,Premium,United States,Laptop,32,29.6,55.4,24
+1677,Basic,Canada,Tablet,7,7.8,67.0,7
+1678,Standard,United Kingdom,Smart TV,57,50.1,52.7,41
+1679,Premium,Australia,Tablet,10,7.2,43.2,7
+1680,Basic,Germany,Laptop,77,66.3,51.7,44
+1681,Premium,France,Smart TV,65,58.8,54.3,48
+1682,Basic,Brazil,Laptop,50,41.3,49.6,36
+1683,Standard,Mexico,Laptop,48,45.1,56.4,33
+1684,Standard,Spain,Smartphone,44,35.3,48.1,30
+1685,Basic,Italy,Laptop,14,12.9,55.3,9
+1686,Premium,Spain,Laptop,58,51.4,53.2,37
+1687,Basic,Spain,Smartphone,15,13.5,54.0,8
+1688,Standard,United States,Tablet,61,58.4,57.4,48
+1689,Premium,Canada,Tablet,36,37.8,63.0,21
+1690,Basic,United States,Laptop,63,55.4,52.7,39
+1691,Premium,United States,Smart TV,48,47.8,59.7,32
+1692,Basic,Canada,Tablet,51,38.9,45.8,36
+1693,Standard,United Kingdom,Tablet,36,28.2,47.0,25
+1694,Standard,Australia,Laptop,28,28.4,60.9,19
+1695,Basic,Germany,Smartphone,39,30.6,47.1,27
+1696,Premium,France,Laptop,41,43.2,63.2,24
+1697,Basic,Brazil,Tablet,60,62.5,62.5,39
+1698,Standard,Mexico,Tablet,8,10.6,79.3,6
+1699,Premium,Spain,Laptop,80,73.9,55.4,52
+1700,Basic,Italy,Smart TV,12,14.3,71.6,9
+1701,Premium,Spain,Smart TV,25,21.7,52.0,18
+1702,Basic,Spain,Smartphone,58,62.6,64.7,37
+1703,Standard,United States,Smart TV,73,73.4,60.3,48
+1704,Standard,Canada,Laptop,63,53.2,50.6,40
+1705,Basic,United States,Tablet,42,40.5,57.9,29
+1706,Premium,United States,Laptop,45,39.4,52.5,34
+1707,Basic,Canada,Smartphone,55,45.3,49.4,40
+1708,Standard,United Kingdom,Smartphone,75,66.9,53.5,50
+1709,Premium,Australia,Smartphone,61,49.2,48.4,39
+1710,Basic,Germany,Smart TV,69,65.9,57.3,46
+1711,Premium,France,Smartphone,25,19.6,47.0,14
+1712,Basic,Brazil,Smartphone,15,13.8,55.1,11
+1713,Standard,Mexico,Tablet,76,76.1,60.1,52
+1714,Standard,Spain,Tablet,60,66.2,66.2,37
+1715,Basic,Italy,Laptop,18,18.3,60.8,14
+1716,Premium,Spain,Smart TV,70,60.7,52.1,46
+1717,Basic,Spain,Smartphone,56,50.1,53.7,41
+1718,Standard,United States,Tablet,61,47.4,46.7,37
+1719,Premium,Canada,Laptop,80,59.6,44.7,54
+1720,Basic,United States,Tablet,68,58.5,51.6,47
+1721,Basic,United States,Tablet,27,26.7,59.4,17
+1722,Basic,Canada,Tablet,11,11.4,62.1,8
+1723,Standard,United Kingdom,Smart TV,78,62.1,47.7,51
+1724,Premium,Australia,Laptop,23,21.4,55.8,16
+1725,Basic,Germany,Smartphone,19,17.0,53.7,14
+1726,Basic,France,Laptop,63,52.3,49.8,41
+1727,Premium,Brazil,Smartphone,67,59.6,53.4,41
+1728,Standard,Mexico,Smartphone,67,64.8,58.0,39
+1729,Standard,Spain,Laptop,15,10.4,41.6,11
+1730,Basic,Italy,Smartphone,73,72.0,59.2,44
+1731,Premium,Spain,Tablet,53,52.7,59.7,34
+1732,Standard,Spain,Smartphone,48,52.9,66.1,37
+1733,Basic,United States,Tablet,54,51.3,56.9,37
+1734,Standard,Canada,Tablet,35,28.9,49.6,26
+1735,Premium,United States,Smartphone,62,56.0,54.1,42
+1736,Basic,United States,Smartphone,29,25.9,53.6,22
+1737,Premium,Canada,Laptop,56,51.3,55.0,36
+1738,Standard,United Kingdom,Smartphone,25,17.8,42.8,14
+1739,Basic,Australia,Smartphone,32,31.8,59.7,25
+1740,Standard,Germany,Laptop,7,5.4,46.6,6
+1741,Premium,France,Smartphone,35,40.0,68.5,23
+1742,Basic,Brazil,Laptop,36,27.1,45.3,25
+1743,Standard,Mexico,Tablet,62,53.5,51.8,35
+1744,Premium,Spain,Smart TV,33,31.3,57.0,24
+1745,Basic,Italy,Tablet,43,34.1,47.6,33
+1746,Premium,Spain,Smart TV,23,21.2,55.3,16
+1747,Basic,Spain,Laptop,38,43.9,69.3,28
+1748,Standard,United States,Smartphone,54,46.1,51.2,32
+1749,Standard,Canada,Laptop,30,24.9,49.8,19
+1750,Basic,United States,Smartphone,63,58.5,55.7,41
+1751,Premium,United States,Tablet,75,65.1,52.1,45
+1752,Basic,Canada,Laptop,44,39.9,54.4,32
+1753,Standard,United Kingdom,Laptop,42,40.0,57.2,25
+1754,Premium,Australia,Smart TV,23,19.0,49.6,15
+1755,Basic,Germany,Laptop,17,12.9,45.4,11
+1756,Premium,France,Tablet,53,46.8,52.9,33
+1757,Basic,Brazil,Laptop,12,9.6,47.9,10
+1758,Standard,Mexico,Laptop,44,36.1,49.3,27
+1759,Standard,Spain,Smart TV,35,35.0,60.0,27
+1760,Basic,Italy,Tablet,43,37.2,51.9,26
+1761,Premium,Spain,Smart TV,22,15.8,43.0,14
+1762,Basic,Spain,Smartphone,43,37.6,52.5,33
+1763,Standard,United States,Smartphone,51,50.7,59.7,30
+1764,Premium,Canada,Tablet,51,50.4,59.3,32
+1765,Basic,United States,Tablet,53,49.9,56.4,38
+1766,Premium,United States,Smart TV,57,44.5,46.9,41
+1767,Basic,Canada,Tablet,51,47.3,55.7,33
+1768,Standard,United Kingdom,Tablet,60,52.3,52.3,44
+1769,Standard,Australia,Laptop,32,26.8,50.2,26
+1770,Basic,Germany,Tablet,15,16.3,65.1,8
+1771,Premium,France,Laptop,21,20.2,57.8,14
+1772,Basic,Brazil,Smart TV,13,14.3,65.8,9
+1773,Standard,Mexico,Tablet,25,22.2,53.2,16
+1774,Premium,Spain,Tablet,52,57.0,65.8,35
+1775,Basic,Italy,Tablet,14,8.6,36.7,12
+1776,Premium,Spain,Smart TV,73,58.4,48.0,48
+1777,Basic,Spain,Tablet,38,32.1,50.8,24
+1778,Standard,United States,Tablet,19,19.4,61.1,15
+1779,Standard,Canada,Smartphone,31,29.4,56.8,21
+1780,Basic,United States,Smart TV,7,6.1,52.1,6
+1781,Premium,United States,Laptop,16,15.5,58.0,12
+1782,Basic,Canada,Laptop,58,54.4,56.2,43
+1783,Standard,United Kingdom,Smartphone,25,16.6,39.8,17
+1784,Premium,Australia,Tablet,71,59.6,50.4,50
+1785,Basic,Germany,Tablet,68,54.4,48.0,51
+1786,Premium,France,Laptop,66,60.5,55.0,42
+1787,Basic,Brazil,Laptop,73,71.9,59.1,49
+1788,Standard,Mexico,Smart TV,57,52.5,55.3,37
+1789,Standard,Spain,Tablet,88,78.8,53.7,60
+1790,Basic,Italy,Smart TV,33,29.5,53.6,25
+1791,Premium,Spain,Laptop,70,67.9,58.2,50
+1792,Basic,Spain,Tablet,70,62.6,53.7,42
+1793,Standard,United States,Smart TV,55,50.5,55.1,37
+1794,Premium,Canada,Tablet,66,65.5,59.5,44
+1795,Basic,United States,Smart TV,28,28.6,61.3,19
+1796,Basic,United States,Tablet,63,52.1,49.7,42
+1797,Basic,Canada,Smart TV,38,37.2,58.8,23
+1798,Standard,United Kingdom,Smartphone,61,50.9,50.0,37
+1799,Premium,Australia,Tablet,52,48.8,56.3,36
+1800,Basic,Germany,Tablet,56,50.6,54.3,41
+1801,Basic,France,Tablet,92,83.8,54.7,61
+1802,Premium,Brazil,Smartphone,53,47.8,54.1,38
+1803,Standard,Mexico,Smart TV,64,62.5,58.6,49
+1804,Standard,Spain,Laptop,44,38.2,52.0,33
+1805,Basic,Italy,Smart TV,25,19.7,47.2,15
+1806,Premium,Spain,Laptop,50,55.0,65.9,36
+1807,Standard,Spain,Smartphone,69,65.5,56.9,43
+1808,Basic,United States,Laptop,78,67.1,51.6,54
+1809,Standard,Canada,Tablet,10,9.4,56.3,7
+1810,Premium,United States,Laptop,51,48.8,57.4,34
+1811,Basic,United States,Smart TV,60,56.6,56.6,42
+1812,Premium,Canada,Smartphone,36,26.5,44.2,25
+1813,Standard,United Kingdom,Smartphone,9,6.2,41.2,6
+1814,Basic,Australia,Smartphone,59,52.9,53.7,39
+1815,Standard,Germany,Tablet,56,48.5,52.0,35
+1816,Premium,France,Laptop,53,52.8,59.7,38
+1817,Basic,Brazil,Smartphone,55,52.5,57.3,38
+1818,Standard,Mexico,Smart TV,59,55.1,56.1,36
+1819,Premium,Spain,Tablet,37,30.4,49.4,24
+1820,Basic,Italy,Smart TV,39,23.4,36.1,27
+1821,Premium,Spain,Smartphone,22,20.5,55.9,15
+1822,Basic,Spain,Tablet,51,41.0,48.3,33
+1823,Standard,United States,Tablet,40,34.6,52.0,30
+1824,Standard,Canada,Laptop,41,39.9,58.3,29
+1825,Basic,United States,Smart TV,45,41.9,55.9,29
+1826,Premium,United States,Tablet,44,39.5,53.9,28
+1827,Basic,Canada,Laptop,55,55.0,60.0,34
+1828,Standard,United Kingdom,Laptop,39,38.8,59.7,25
+1829,Premium,Australia,Tablet,55,57.2,62.4,31
+1830,Basic,Germany,Smartphone,56,44.9,48.1,38
+1831,Premium,France,Laptop,51,44.9,52.9,33
+1832,Basic,Brazil,Smartphone,26,25.4,58.6,16
+1833,Standard,Mexico,Smartphone,55,43.6,47.6,37
+1834,Standard,Spain,Smart TV,48,46.8,58.5,33
+1835,Basic,Italy,Tablet,17,18.1,63.9,13
+1836,Premium,Spain,Smart TV,44,50.2,68.5,34
+1837,Basic,Spain,Smartphone,22,21.5,58.7,16
+1838,Standard,United States,Smartphone,20,21.5,64.5,13
+1839,Premium,Canada,Smart TV,45,37.8,50.4,32
+1840,Basic,United States,Laptop,66,62.0,56.3,44
+1841,Premium,United States,Tablet,54,40.7,45.2,35
+1842,Basic,Canada,Smartphone,17,15.7,55.5,11
+1843,Standard,United Kingdom,Laptop,54,54.1,60.1,37
+1844,Standard,Australia,Smart TV,51,42.5,49.9,31
+1845,Basic,Germany,Smartphone,8,7.8,58.3,8
+1846,Premium,France,Smartphone,13,12.1,55.9,8
+1847,Basic,Brazil,Smartphone,40,36.9,55.3,24
+1848,Standard,Mexico,Laptop,58,50.6,52.3,39
+1849,Premium,Spain,Smartphone,58,48.4,50.0,44
+1850,Basic,Italy,Smartphone,18,16.5,55.1,12
+1851,Premium,Spain,Laptop,76,73.2,57.8,49
+1852,Basic,Spain,Tablet,71,69.3,58.6,47
+1853,Standard,United States,Laptop,36,30.8,51.3,25
+1854,Standard,Canada,Laptop,46,39.5,51.6,26
+1855,Basic,United States,Smartphone,67,53.6,48.0,50
+1856,Premium,United States,Smartphone,64,59.7,56.0,46
+1857,Basic,Canada,Smart TV,23,20.7,54.0,18
+1858,Standard,United Kingdom,Smart TV,40,38.5,57.8,27
+1859,Premium,Australia,Laptop,33,25.5,46.4,20
+1860,Basic,Germany,Laptop,50,45.0,54.0,36
+1861,Premium,France,Laptop,47,52.9,67.5,32
+1862,Basic,Brazil,Tablet,50,43.9,52.6,32
+1863,Standard,Mexico,Smartphone,18,19.5,65.0,13
+1864,Standard,Spain,Smartphone,18,18.6,62.1,14
+1865,Basic,Italy,Smartphone,81,71.2,52.7,56
+1866,Premium,Spain,Laptop,23,21.6,56.5,14
+1867,Basic,Spain,Tablet,71,63.0,53.3,48
+1868,Standard,United States,Tablet,48,48.7,60.9,31
+1869,Premium,Canada,Smart TV,84,80.8,57.7,50
+1870,Basic,United States,Tablet,70,69.2,59.3,48
+1871,Basic,United States,Smart TV,22,22.7,62.0,15
+1872,Basic,Canada,Smartphone,23,20.5,53.5,16
+1873,Standard,United Kingdom,Smartphone,62,63.4,61.3,38
+1874,Premium,Australia,Smartphone,48,46.0,57.6,31
+1875,Basic,Germany,Smart TV,34,31.4,55.5,24
+1876,Basic,France,Tablet,68,60.2,53.1,43
+1877,Premium,Brazil,Smartphone,65,61.4,56.7,40
+1878,Standard,Mexico,Tablet,44,42.5,58.0,34
+1879,Standard,Spain,Smart TV,60,52.7,52.7,43
+1880,Basic,Italy,Smart TV,19,14.6,45.9,14
+1881,Premium,Spain,Tablet,20,15.6,46.6,13
+1882,Standard,Spain,Smartphone,50,45.7,54.8,33
+1883,Basic,United States,Tablet,16,15.1,56.6,14
+1884,Standard,Canada,Tablet,49,39.8,48.7,29
+1885,Premium,United States,Tablet,49,47.6,58.3,37
+1886,Basic,United States,Smart TV,42,31.2,44.6,31
+1887,Premium,Canada,Smart TV,40,36.2,54.4,24
+1888,Standard,United Kingdom,Laptop,16,13.7,51.5,11
+1889,Basic,Australia,Laptop,38,37.1,58.6,25
+1890,Standard,Germany,Laptop,36,30.0,50.1,26
+1891,Premium,France,Tablet,61,52.0,51.2,45
+1892,Basic,Brazil,Smartphone,10,10.7,64.1,6
+1893,Standard,Mexico,Smartphone,10,10.2,60.9,8
+1894,Premium,Spain,Tablet,56,49.1,52.6,36
+1895,Basic,Italy,Laptop,40,35.4,53.0,28
+1896,Premium,Spain,Laptop,48,43.4,54.2,33
+1897,Basic,Spain,Smartphone,65,47.0,43.4,36
+1898,Standard,United States,Tablet,36,33.7,56.2,29
+1899,Standard,Canada,Smartphone,6,4.5,45.5,5
+1900,Basic,United States,Smartphone,44,38.7,52.8,30
+1901,Premium,United States,Tablet,27,24.3,54.1,18
+1902,Basic,Canada,Smart TV,10,9.3,55.6,7
+1903,Standard,United Kingdom,Smart TV,12,7.8,38.9,9
+1904,Premium,Australia,Smartphone,50,44.6,53.5,33
+1905,Basic,Germany,Tablet,48,40.8,51.0,31
+1906,Premium,France,Tablet,41,45.1,66.0,27
+1907,Basic,Brazil,Smartphone,37,35.9,58.2,23
+1908,Standard,Mexico,Smartphone,15,15.9,63.6,10
+1909,Standard,Spain,Smart TV,49,45.5,55.8,34
+1910,Basic,Italy,Smartphone,42,36.3,51.9,26
+1911,Premium,Spain,Smart TV,58,51.9,53.7,37
+1912,Basic,Spain,Laptop,62,48.8,47.2,37
+1913,Standard,United States,Tablet,71,56.9,48.1,45
+1914,Premium,Canada,Tablet,43,38.2,53.3,26
+1915,Basic,United States,Smartphone,23,17.1,44.6,11
+1916,Premium,United States,Tablet,54,53.3,59.3,41
+1917,Basic,Canada,Tablet,5,3.1,37.6,3
+1918,Standard,United Kingdom,Smartphone,22,21.9,59.9,16
+1919,Standard,Australia,Smart TV,73,64.9,53.3,49
+1920,Basic,Germany,Laptop,16,13.1,49.3,11
+1921,Premium,France,Laptop,68,66.5,58.7,47
+1922,Basic,Brazil,Tablet,67,58.0,52.0,46
+1923,Standard,Mexico,Smartphone,65,70.0,64.6,40
+1924,Premium,Spain,Laptop,55,48.0,52.3,39
+1925,Basic,Italy,Smart TV,77,63.2,49.3,46
+1926,Premium,Spain,Tablet,89,77.8,52.5,58
+1927,Basic,Spain,Smart TV,16,13.7,51.3,11
+1928,Standard,United States,Smart TV,19,21.0,66.4,13
+1929,Standard,Canada,Smartphone,38,37.0,58.3,27
+1930,Basic,United States,Smart TV,57,51.2,53.9,39
+1931,Premium,United States,Tablet,94,90.5,57.7,57
+1932,Basic,Canada,Tablet,75,61.2,49.0,51
+1933,Standard,United Kingdom,Smart TV,24,22.2,55.5,16
+1934,Premium,Australia,Laptop,78,66.4,51.1,48
+1935,Basic,Germany,Tablet,24,21.0,52.6,15
+1936,Premium,France,Laptop,79,85.7,65.1,50
+1937,Basic,Brazil,Smart TV,47,39.4,50.3,27
+1938,Standard,Mexico,Smartphone,90,88.2,58.8,60
+1939,Standard,Spain,Tablet,14,13.5,57.8,8
+1940,Basic,Italy,Tablet,57,45.4,47.8,38
+1941,Premium,Spain,Smart TV,43,43.8,61.0,31
+1942,Basic,Spain,Smart TV,62,49.6,48.0,40
+1943,Standard,United States,Smart TV,58,55.0,56.9,41
+1944,Premium,Canada,Tablet,68,69.8,61.6,48
+1945,Basic,United States,Smart TV,68,71.1,62.7,42
+1946,Basic,United States,Smart TV,54,50.6,56.2,36
+1947,Basic,Canada,Smartphone,60,51.8,51.8,37
+1948,Standard,United Kingdom,Laptop,23,20.0,52.2,17
+1949,Premium,Australia,Smart TV,20,19.2,57.7,16
+1950,Basic,Germany,Laptop,58,51.0,52.8,42
+1951,Basic,France,Tablet,19,21.1,66.7,13
+1952,Premium,Brazil,Smartphone,11,9.9,54.2,6
+1953,Standard,Mexico,Smartphone,37,37.0,60.0,27
+1954,Standard,Spain,Laptop,25,26.4,63.3,19
+1955,Basic,Italy,Smartphone,59,55.0,55.9,40
+1956,Premium,Spain,Tablet,28,19.6,42.0,21
+1957,Standard,Spain,Smartphone,50,48.0,57.6,36
+1958,Basic,United States,Tablet,49,46.8,57.3,36
+1959,Standard,Canada,Smartphone,60,57.5,57.5,42
+1960,Premium,United States,Laptop,47,41.4,52.8,36
+1961,Basic,United States,Smartphone,55,55.0,60.1,34
+1962,Premium,Canada,Tablet,22,23.3,63.5,18
+1963,Standard,United Kingdom,Smart TV,19,16.7,52.8,11
+1964,Basic,Australia,Smart TV,22,20.7,56.5,16
+1965,Standard,Germany,Tablet,35,30.6,52.4,23
+1966,Premium,France,Tablet,14,11.1,47.6,11
+1967,Basic,Brazil,Laptop,5,4.4,52.4,5
+1968,Standard,Mexico,Tablet,53,46.8,53.0,34
+1969,Premium,Spain,Smartphone,45,35.9,47.8,25
+1970,Basic,Italy,Laptop,50,43.3,51.9,30
+1971,Premium,Spain,Laptop,27,23.4,52.1,16
+1972,Basic,Spain,Tablet,16,12.0,45.1,14
+1973,Standard,United States,Tablet,33,28.6,52.1,23
+1974,Standard,Canada,Smartphone,58,55.0,56.9,33
+1975,Basic,United States,Tablet,73,56.5,46.5,43
+1976,Premium,United States,Tablet,70,67.8,58.1,44
+1977,Basic,Canada,Smartphone,44,40.9,55.8,28
+1978,Standard,United Kingdom,Smart TV,18,15.5,51.6,14
+1979,Premium,Australia,Smartphone,58,49.6,51.4,47
+1980,Basic,Germany,Laptop,53,48.8,55.3,39
+1981,Premium,France,Smartphone,54,44.2,49.1,35
+1982,Basic,Brazil,Smartphone,64,64.4,60.3,41
+1983,Standard,Mexico,Tablet,61,50.1,49.3,37
+1984,Standard,Spain,Smartphone,55,48.9,53.4,40
+1985,Basic,Italy,Tablet,38,34.0,53.6,27
+1986,Premium,Spain,Smart TV,75,75.3,60.2,46
+1987,Basic,Spain,Smart TV,23,23.6,61.4,14
+1988,Standard,United States,Smartphone,90,92.0,61.3,60
+1989,Premium,Canada,Tablet,40,34.6,52.0,26
+1990,Basic,United States,Smart TV,10,9.9,59.7,8
+1991,Premium,United States,Laptop,64,59.1,55.4,45
+1992,Basic,Canada,Smartphone,36,26.3,43.8,23
+1993,Standard,United Kingdom,Tablet,7,5.7,48.6,5
+1994,Standard,Australia,Laptop,68,50.5,44.6,45
+1995,Basic,Germany,Tablet,41,36.7,53.7,27
+1996,Premium,France,Smart TV,10,9.8,58.7,6
+1997,Basic,Brazil,Smart TV,58,52.9,54.7,39
+1998,Standard,Mexico,Smart TV,55,51.1,55.8,42
+1999,Premium,Spain,Smart TV,40,28.5,42.8,31
+2000,Basic,Italy,Smart TV,70,65.3,56.0,44
+2001,Premium,Spain,Smart TV,52,43.4,50.1,41
+2002,Basic,Spain,Smartphone,10,8.6,51.5,6
+2003,Standard,United States,Tablet,26,24.7,57.1,19
+2004,Standard,Canada,Laptop,63,52.5,50.0,45
+2005,Basic,United States,Laptop,10,8.5,51.0,8
+2006,Premium,United States,Laptop,35,31.6,54.1,23
+2007,Basic,Canada,Smart TV,11,8.7,47.4,7
+2008,Standard,United Kingdom,Laptop,67,60.5,54.2,43
+2009,Premium,Australia,Laptop,8,9.9,74.3,5
+2010,Basic,Germany,Laptop,59,47.2,48.0,41
+2011,Premium,France,Tablet,47,42.3,54.0,35
+2012,Basic,Brazil,Smart TV,36,33.7,56.1,26
+2013,Standard,Mexico,Smart TV,79,77.0,58.4,51
+2014,Standard,Spain,Smart TV,21,19.1,54.5,11
+2015,Basic,Italy,Smartphone,56,56.5,60.5,35
+2016,Premium,Spain,Smart TV,14,13.8,59.4,10
+2017,Basic,Spain,Laptop,65,53.4,49.3,44
+2018,Standard,United States,Laptop,45,38.0,50.7,31
+2019,Premium,Canada,Laptop,68,64.0,56.4,43
+2020,Basic,United States,Tablet,41,33.3,48.8,28
+2021,Basic,United States,Laptop,64,54.3,50.9,42
+2022,Basic,Canada,Laptop,18,12.1,40.3,11
+2023,Standard,United Kingdom,Tablet,50,44.3,53.2,37
+2024,Premium,Australia,Laptop,58,49.2,50.9,37
+2025,Basic,Germany,Laptop,70,61.4,52.6,45
+2026,Basic,France,Smart TV,52,39.5,45.5,35
+2027,Premium,Brazil,Smart TV,44,38.1,52.0,29
+2028,Standard,Mexico,Smartphone,14,12.7,54.2,8
+2029,Standard,Spain,Smart TV,51,45.5,53.5,34
+2030,Basic,Italy,Tablet,44,40.1,54.7,31
+2031,Premium,Spain,Smart TV,11,13.0,71.1,8
+2032,Standard,Spain,Smart TV,42,37.6,53.7,31
+2033,Basic,United States,Smartphone,49,44.5,54.5,38
+2034,Standard,Canada,Laptop,50,46.5,55.8,32
+2035,Premium,United States,Smart TV,50,41.3,49.6,34
+2036,Basic,United States,Smartphone,40,37.5,56.3,30
+2037,Premium,Canada,Smart TV,40,37.7,56.5,28
+2038,Standard,United Kingdom,Smartphone,44,41.7,56.9,26
+2039,Basic,Australia,Laptop,38,39.7,62.7,26
+2040,Standard,Germany,Laptop,36,36.7,61.1,22
+2041,Premium,France,Smartphone,66,61.2,55.6,40
+2042,Basic,Brazil,Smartphone,65,52.7,48.6,38
+2043,Standard,Mexico,Smart TV,23,24.6,64.0,14
+2044,Premium,Spain,Smart TV,44,44.5,60.6,25
+2045,Basic,Italy,Laptop,40,35.5,53.3,25
+2046,Premium,Spain,Smartphone,42,36.0,51.4,29
+2047,Basic,Spain,Laptop,4,4.7,69.8,3
+2048,Standard,United States,Tablet,15,15.7,62.9,11
+2049,Standard,Canada,Tablet,36,31.9,53.2,21
+2050,Basic,United States,Smartphone,68,57.3,50.5,41
+2051,Premium,United States,Smartphone,50,42.4,50.9,35
+2052,Basic,Canada,Smart TV,27,27.0,60.0,18
+2053,Standard,United Kingdom,Laptop,8,4.8,35.6,6
+2054,Premium,Australia,Tablet,64,59.3,55.6,41
+2055,Basic,Germany,Laptop,64,56.6,53.1,42
+2056,Premium,France,Tablet,37,38.9,63.1,22
+2057,Basic,Brazil,Smartphone,26,22.3,51.3,18
+2058,Standard,Mexico,Smartphone,58,50.8,52.5,39
+2059,Standard,Spain,Laptop,75,69.1,55.3,50
+2060,Basic,Italy,Smart TV,43,37.2,51.9,29
+2061,Premium,Spain,Smart TV,69,68.4,59.5,47
+2062,Basic,Spain,Tablet,22,24.8,67.6,13
+2063,Standard,United States,Smartphone,39,34.5,53.1,24
+2064,Premium,Canada,Tablet,4,3.5,52.0,4
+2065,Basic,United States,Tablet,56,50.9,54.6,36
+2066,Premium,United States,Laptop,66,55.4,50.4,44
+2067,Basic,Canada,Laptop,69,61.9,53.9,45
+2068,Standard,United Kingdom,Laptop,65,54.8,50.6,40
+2069,Standard,Australia,Smart TV,77,61.0,47.5,50
+2070,Basic,Germany,Smartphone,83,73.5,53.1,52
+2071,Premium,France,Smartphone,73,57.2,47.0,47
+2072,Basic,Brazil,Laptop,50,44.5,53.3,34
+2073,Standard,Mexico,Tablet,8,7.8,58.8,7
+2074,Premium,Spain,Smartphone,6,6.0,59.5,4
+2075,Basic,Italy,Tablet,90,77.9,51.9,57
+2076,Premium,Spain,Laptop,37,25.5,41.3,25
+2077,Basic,Spain,Laptop,8,6.3,47.4,5
+2078,Standard,United States,Laptop,60,60.9,60.9,40
+2079,Standard,Canada,Smart TV,75,65.8,52.6,50
+2080,Basic,United States,Laptop,63,60.2,57.3,46
+2081,Premium,United States,Smart TV,62,53.1,51.4,40
+2082,Basic,Canada,Tablet,68,59.4,52.4,48
+2083,Standard,United Kingdom,Tablet,61,59.1,58.1,43
+2084,Premium,Australia,Smartphone,33,31.7,57.7,21
+2085,Basic,Germany,Laptop,59,51.8,52.7,38
+2086,Premium,France,Smart TV,65,64.4,59.4,43
+2087,Basic,Brazil,Tablet,65,58.5,54.0,48
+2088,Standard,Mexico,Tablet,51,29.9,35.2,38
+2089,Standard,Spain,Tablet,48,44.6,55.8,27
+2090,Basic,Italy,Tablet,37,31.0,50.3,28
+2091,Premium,Spain,Smartphone,20,19.4,58.1,14
+2092,Basic,Spain,Laptop,17,16.8,59.2,13
+2093,Standard,United States,Smart TV,38,32.4,51.2,28
+2094,Premium,Canada,Smart TV,66,64.6,58.7,40
+2095,Basic,United States,Smart TV,62,57.3,55.5,41
+2096,Basic,United States,Tablet,62,55.4,53.6,38
+2097,Basic,Canada,Tablet,62,58.0,56.2,37
+2098,Standard,United Kingdom,Tablet,60,54.5,54.5,38
+2099,Premium,Australia,Laptop,56,51.9,55.6,40
+2100,Basic,Germany,Smart TV,8,8.3,62.3,6
+2101,Basic,France,Tablet,51,52.7,62.0,34
+2102,Premium,Brazil,Smartphone,8,9.1,68.0,5
+2103,Standard,Mexico,Laptop,54,55.5,61.6,33
+2104,Standard,Spain,Tablet,53,53.4,60.4,35
+2105,Basic,Italy,Smartphone,61,49.9,49.1,36
+2106,Premium,Spain,Smartphone,54,50.0,55.5,35
+2107,Standard,Spain,Smart TV,50,49.2,59.1,30
+2108,Basic,United States,Smartphone,50,45.4,54.4,28
+2109,Standard,Canada,Tablet,33,30.3,55.0,21
+2110,Premium,United States,Smartphone,22,17.6,48.1,18
+2111,Basic,United States,Laptop,44,32.0,43.6,28
+2112,Premium,Canada,Smart TV,50,48.2,57.9,33
+2113,Standard,United Kingdom,Tablet,18,16.4,54.6,11
+2114,Basic,Australia,Tablet,10,8.4,50.2,6
+2115,Standard,Germany,Laptop,52,45.1,52.0,34
+2116,Premium,France,Tablet,23,19.5,50.8,15
+2117,Basic,Brazil,Laptop,34,37.5,66.2,25
+2118,Standard,Mexico,Smart TV,69,55.4,48.1,42
+2119,Premium,Spain,Laptop,55,52.9,57.7,36
+2120,Basic,Italy,Smart TV,21,18.6,53.1,15
+2121,Premium,Spain,Laptop,22,18.6,50.7,17
+2122,Basic,Spain,Smart TV,54,57.9,64.4,31
+2123,Standard,United States,Tablet,37,32.1,52.1,23
+2124,Standard,Canada,Laptop,20,19.2,57.6,13
+2125,Basic,United States,Smartphone,71,59.5,50.3,47
+2126,Premium,United States,Smartphone,61,53.2,52.3,40
+2127,Basic,Canada,Smartphone,72,59.4,49.5,45
+2128,Standard,United Kingdom,Tablet,16,15.7,58.9,10
+2129,Premium,Australia,Laptop,14,11.1,47.4,9
+2130,Basic,Germany,Tablet,49,48.8,59.7,29
+2131,Premium,France,Laptop,63,53.9,51.4,44
+2132,Basic,Brazil,Smart TV,65,60.7,56.0,42
+2133,Standard,Mexico,Laptop,35,29.1,49.9,21
+2134,Standard,Spain,Smart TV,13,10.6,49.0,8
+2135,Basic,Italy,Smartphone,66,60.9,55.4,44
+2136,Premium,Spain,Tablet,72,64.1,53.4,44
+2137,Basic,Spain,Tablet,81,70.2,52.0,56
+2138,Standard,United States,Smartphone,75,67.3,53.9,50
+2139,Premium,Canada,Smartphone,51,49.7,58.5,34
+2140,Basic,United States,Tablet,61,51.1,50.3,42
+2141,Premium,United States,Tablet,70,63.5,54.4,49
+2142,Basic,Canada,Smartphone,11,8.2,44.6,6
+2143,Standard,United Kingdom,Smartphone,45,43.8,58.4,26
+2144,Standard,Australia,Smartphone,68,63.1,55.7,45
+2145,Basic,Germany,Smart TV,48,43.3,54.1,31
+2146,Premium,France,Tablet,93,82.7,53.3,57
+2147,Basic,Brazil,Smartphone,73,71.2,58.5,50
+2148,Standard,Mexico,Tablet,61,48.9,48.1,41
+2149,Premium,Spain,Smart TV,63,54.9,52.3,47
+2150,Basic,Italy,Tablet,13,9.9,45.8,7
+2151,Premium,Spain,Smart TV,75,64.5,51.6,52
+2152,Basic,Spain,Laptop,8,10.5,78.9,6
+2153,Standard,United States,Tablet,62,47.5,46.0,44
+2154,Standard,Canada,Smart TV,70,66.1,56.7,42
+2155,Basic,United States,Smartphone,47,41.7,53.3,30
+2156,Premium,United States,Smart TV,41,32.7,47.8,29
+2157,Basic,Canada,Smart TV,60,53.3,53.3,40
+2158,Standard,United Kingdom,Smartphone,74,61.5,49.9,46
+2159,Premium,Australia,Tablet,22,17.2,47.0,13
+2160,Basic,Germany,Smartphone,72,59.6,49.7,46
+2161,Premium,France,Smartphone,39,37.7,58.0,27
+2162,Basic,Brazil,Tablet,21,20.6,58.8,14
+2163,Standard,Mexico,Smart TV,15,16.1,64.6,11
+2164,Standard,Spain,Smartphone,42,40.1,57.3,27
+2165,Basic,Italy,Laptop,68,58.0,51.1,43
+2166,Premium,Spain,Smartphone,52,51.1,58.9,34
+2167,Basic,Spain,Laptop,53,45.0,51.0,39
+2168,Standard,United States,Smart TV,49,44.0,53.8,34
+2169,Premium,Canada,Tablet,48,46.2,57.7,35
+2170,Basic,United States,Smart TV,52,48.3,55.7,34
+2171,Basic,United States,Tablet,18,16.2,53.9,12
+2172,Basic,Canada,Smart TV,48,47.2,59.0,30
+2173,Standard,United Kingdom,Smartphone,45,40.8,54.4,28
+2174,Premium,Australia,Smartphone,16,15.0,56.3,10
+2175,Basic,Germany,Laptop,57,54.6,57.5,34
+2176,Basic,France,Tablet,48,51.0,63.8,35
+2177,Premium,Brazil,Tablet,43,40.9,57.0,31
+2178,Standard,Mexico,Tablet,49,36.2,44.3,35
+2179,Standard,Spain,Smart TV,42,37.2,53.1,29
+2180,Basic,Italy,Smart TV,11,11.7,64.0,10
+2181,Premium,Spain,Laptop,20,21.6,64.9,14
+2182,Standard,Spain,Tablet,29,29.0,60.0,17
+2183,Basic,United States,Smart TV,38,39.4,62.2,26
+2184,Standard,Canada,Tablet,43,42.5,59.2,27
+2185,Premium,United States,Smart TV,11,8.8,48.3,8
+2186,Basic,United States,Smart TV,39,39.1,60.2,30
+2187,Premium,Canada,Tablet,54,55.2,61.3,31
+2188,Standard,United Kingdom,Laptop,25,30.1,72.1,18
+2189,Basic,Australia,Laptop,43,35.9,50.1,30
+2190,Standard,Germany,Tablet,59,50.5,51.4,39
+2191,Premium,France,Smartphone,61,48.3,47.5,41
+2192,Basic,Brazil,Smart TV,62,63.5,61.4,41
+2193,Standard,Mexico,Laptop,60,56.3,56.3,38
+2194,Premium,Spain,Smart TV,69,57.0,49.6,46
+2195,Basic,Italy,Smart TV,50,45.5,54.5,35
+2196,Premium,Spain,Smartphone,57,58.0,61.1,42
+2197,Basic,Spain,Smartphone,39,34.4,52.8,22
+2198,Standard,United States,Smart TV,64,57.9,54.3,41
+2199,Standard,Canada,Tablet,62,51.5,49.8,40
+2200,Basic,United States,Laptop,17,20.2,71.4,13
+2201,Premium,United States,Laptop,34,26.0,45.9,26
+2202,Basic,Canada,Tablet,69,56.0,48.7,52
+2203,Standard,United Kingdom,Smartphone,66,65.0,59.0,44
+2204,Premium,Australia,Smart TV,23,15.4,40.2,14
+2205,Basic,Germany,Smart TV,29,25.3,52.4,19
+2206,Premium,France,Smart TV,72,69.3,57.7,49
+2207,Basic,Brazil,Laptop,62,50.5,48.8,39
+2208,Standard,Mexico,Laptop,55,44.7,48.7,34
+2209,Standard,Spain,Tablet,74,59.7,48.4,50
+2210,Basic,Italy,Smartphone,19,14.8,46.7,12
+2211,Premium,Spain,Laptop,9,10.7,71.1,6
+2212,Basic,Spain,Smart TV,71,61.6,52.1,42
+2213,Standard,United States,Tablet,74,72.9,59.1,46
+2214,Premium,Canada,Tablet,22,18.4,50.0,15
+2215,Basic,United States,Smartphone,63,65.9,62.7,44
+2216,Premium,United States,Smart TV,52,43.3,50.0,37
+2217,Basic,Canada,Tablet,46,35.6,46.5,27
+2218,Standard,United Kingdom,Tablet,83,80.8,58.4,51
+2219,Standard,Australia,Laptop,35,32.7,56.1,24
+2220,Basic,Germany,Smartphone,25,19.4,46.5,14
+2221,Premium,France,Smart TV,21,19.9,56.7,13
+2222,Basic,Brazil,Smartphone,82,66.7,48.8,51
+2223,Standard,Mexico,Laptop,73,64.3,52.9,42
+2224,Premium,Spain,Tablet,31,25.2,48.8,20
+2225,Basic,Italy,Smart TV,40,32.7,49.0,26
+2226,Premium,Spain,Laptop,54,49.0,54.5,35
+2227,Basic,Spain,Laptop,60,57.9,57.9,42
+2228,Standard,United States,Tablet,54,43.1,47.9,35
+2229,Standard,Canada,Smartphone,58,45.7,47.3,40
+2230,Basic,United States,Laptop,50,45.6,54.8,34
+2231,Premium,United States,Smartphone,52,45.2,52.1,38
+2232,Basic,Canada,Laptop,14,9.2,39.4,10
+2233,Standard,United Kingdom,Smartphone,41,37.0,54.1,33
+2234,Premium,Australia,Tablet,28,26.3,56.4,19
+2235,Basic,Germany,Laptop,51,40.9,48.2,36
+2236,Premium,France,Smart TV,43,36.6,51.1,31
+2237,Basic,Brazil,Smart TV,45,39.4,52.5,32
+2238,Standard,Mexico,Smartphone,51,41.3,48.6,33
+2239,Standard,Spain,Smart TV,57,48.2,50.7,38
+2240,Basic,Italy,Laptop,32,25.9,48.5,22
+2241,Premium,Spain,Tablet,44,32.9,44.8,26
+2242,Basic,Spain,Smart TV,38,36.8,58.0,25
+2243,Standard,United States,Laptop,19,15.6,49.2,12
+2244,Premium,Canada,Smart TV,57,47.2,49.7,44
+2245,Basic,United States,Smart TV,39,31.6,48.7,31
+2246,Basic,United States,Smart TV,40,35.4,53.1,28
+2247,Basic,Canada,Tablet,51,47.7,56.1,33
+2248,Standard,United Kingdom,Tablet,44,40.7,55.5,30
+2249,Premium,Australia,Smartphone,57,51.9,54.6,40
+2250,Basic,Germany,Tablet,48,42.1,52.6,30
+2251,Basic,France,Laptop,45,38.9,51.8,35
+2252,Premium,Brazil,Tablet,52,47.7,55.1,36
+2253,Standard,Mexico,Laptop,6,5.3,53.0,5
+2254,Standard,Spain,Laptop,36,29.1,48.6,27
+2255,Basic,Italy,Laptop,67,59.1,52.9,46
+2256,Premium,Spain,Laptop,14,9.4,40.5,12
+2257,Standard,Spain,Laptop,70,57.5,49.3,44
+2258,Basic,United States,Laptop,27,28.3,62.8,19
+2259,Standard,Canada,Laptop,45,41.4,55.2,30
+2260,Premium,United States,Tablet,37,33.1,53.6,24
+2261,Basic,United States,Tablet,57,53.7,56.6,38
+2262,Premium,Canada,Smartphone,72,77.6,64.6,46
+2263,Standard,United Kingdom,Tablet,14,12.6,53.8,8
+2264,Basic,Australia,Smartphone,63,57.3,54.6,40
+2265,Standard,Germany,Tablet,53,47.1,53.3,37
+2266,Premium,France,Tablet,22,18.1,49.5,15
+2267,Basic,Brazil,Smartphone,64,59.6,55.9,42
+2268,Standard,Mexico,Smart TV,67,67.9,60.8,40
+2269,Premium,Spain,Smartphone,14,17.7,75.7,10
+2270,Basic,Italy,Smart TV,62,48.0,46.5,40
+2271,Premium,Spain,Laptop,60,49.9,49.9,36
+2272,Basic,Spain,Smart TV,41,37.4,54.7,29
+2273,Standard,United States,Smartphone,41,38.1,55.8,25
+2274,Standard,Canada,Tablet,79,64.9,49.3,48
+2275,Basic,United States,Smart TV,69,62.2,54.1,45
+2276,Premium,United States,Smartphone,39,32.6,50.1,30
+2277,Basic,Canada,Smart TV,36,39.9,66.4,23
+2278,Standard,United Kingdom,Tablet,28,22.9,49.1,18
+2279,Premium,Australia,Smart TV,72,63.6,53.0,48
+2280,Basic,Germany,Smart TV,55,49.0,53.4,38
+2281,Premium,France,Tablet,13,12.6,58.1,12
+2282,Basic,Brazil,Smartphone,44,42.4,57.8,28
+2283,Standard,Mexico,Smart TV,24,21.4,53.4,16
+2284,Standard,Spain,Smartphone,9,10.8,71.7,6
+2285,Basic,Italy,Smartphone,12,11.7,58.7,5
+2286,Premium,Spain,Laptop,31,31.3,60.6,20
+2287,Basic,Spain,Tablet,40,40.2,60.3,27
+2288,Standard,United States,Smartphone,74,64.8,52.6,54
+2289,Premium,Canada,Tablet,65,60.9,56.2,39
+2290,Basic,United States,Smartphone,42,34.5,49.2,29
+2291,Premium,United States,Laptop,56,48.6,52.1,36
+2292,Basic,Canada,Smart TV,11,9.7,52.8,7
+2293,Standard,United Kingdom,Tablet,40,35.5,53.2,28
+2294,Standard,Australia,Smartphone,58,50.6,52.4,38
+2295,Basic,Germany,Smart TV,19,16.2,51.1,12
+2296,Premium,France,Smartphone,64,61.1,57.3,45
+2297,Basic,Brazil,Laptop,66,54.8,49.8,44
+2298,Standard,Mexico,Tablet,62,57.4,55.5,40
+2299,Premium,Spain,Smartphone,67,66.1,59.2,43
+2300,Basic,Italy,Tablet,58,44.0,45.5,40
+2301,Premium,Spain,Laptop,44,37.8,51.6,34
+2302,Basic,Spain,Smartphone,51,53.1,62.5,36
+2303,Standard,United States,Laptop,44,34.5,47.0,30
+2304,Standard,Canada,Tablet,77,75.0,58.4,52
+2305,Basic,United States,Smartphone,45,35.4,47.2,29
+2306,Premium,United States,Smart TV,50,48.1,57.7,38
+2307,Basic,Canada,Smartphone,40,41.9,62.8,25
+2308,Standard,United Kingdom,Smart TV,53,51.3,58.0,36
+2309,Premium,Australia,Smartphone,46,46.4,60.5,31
+2310,Basic,Germany,Tablet,19,16.2,51.1,15
+2311,Premium,France,Smart TV,53,54.0,61.2,34
+2312,Basic,Brazil,Smartphone,61,56.1,55.2,37
+2313,Standard,Mexico,Tablet,37,35.3,57.2,25
+2314,Standard,Spain,Smart TV,16,16.3,61.2,11
+2315,Basic,Italy,Laptop,42,32.9,47.0,30
+2316,Premium,Spain,Tablet,33,29.4,53.4,24
+2317,Basic,Spain,Smart TV,3,3.0,60.7,3
+2318,Standard,United States,Smart TV,34,33.0,58.3,26
+2319,Premium,Canada,Smart TV,35,33.1,56.7,26
+2320,Basic,United States,Smart TV,59,55.8,56.7,37
+2321,Basic,United States,Smart TV,5,2.3,27.8,4
+2322,Basic,Canada,Smart TV,41,44.1,64.5,27
+2323,Standard,United Kingdom,Laptop,24,26.4,65.9,14
+2324,Premium,Australia,Smart TV,40,41.3,62.0,30
+2325,Basic,Germany,Laptop,50,49.4,59.2,36
+2326,Basic,France,Tablet,46,47.0,61.3,28
+2327,Premium,Brazil,Tablet,74,69.4,56.3,43
+2328,Standard,Mexico,Laptop,43,36.5,50.9,32
+2329,Standard,Spain,Smart TV,38,37.0,58.4,28
+2330,Basic,Italy,Smartphone,66,62.4,56.7,43
+2331,Premium,Spain,Smart TV,59,53.3,54.2,35
+2332,Standard,Spain,Smart TV,55,53.2,58.1,40
+2333,Basic,United States,Tablet,71,52.0,44.0,51
+2334,Standard,Canada,Smartphone,78,70.8,54.5,46
+2335,Premium,United States,Laptop,30,30.4,60.7,21
+2336,Basic,United States,Smartphone,58,45.9,47.4,39
+2337,Premium,Canada,Smartphone,61,59.3,58.3,41
+2338,Standard,United Kingdom,Tablet,7,6.3,54.3,5
+2339,Basic,Australia,Smartphone,17,14.1,49.6,13
+2340,Standard,Germany,Laptop,65,59.7,55.1,41
+2341,Premium,France,Tablet,68,68.3,60.3,41
+2342,Basic,Brazil,Smart TV,5,4.4,53.2,4
+2343,Standard,Mexico,Laptop,42,40.8,58.3,26
+2344,Premium,Spain,Tablet,67,61.0,54.6,43
+2345,Basic,Italy,Smartphone,79,67.4,51.2,52
+2346,Premium,Spain,Smartphone,54,55.7,61.9,39
+2347,Basic,Spain,Smart TV,82,81.2,59.4,54
+2348,Standard,United States,Smart TV,79,69.2,52.6,48
+2349,Standard,Canada,Tablet,16,10.5,39.4,11
+2350,Basic,United States,Laptop,21,22.6,64.5,14
+2351,Premium,United States,Smartphone,82,67.9,49.7,56
+2352,Basic,Canada,Smart TV,60,56.7,56.7,45
+2353,Standard,United Kingdom,Laptop,19,16.3,51.4,13
+2354,Premium,Australia,Smart TV,21,22.8,65.0,13
+2355,Basic,Germany,Laptop,44,44.0,60.0,34
+2356,Premium,France,Smartphone,72,60.1,50.1,48
+2357,Basic,Brazil,Smartphone,72,75.0,62.5,48
+2358,Standard,Mexico,Smartphone,16,15.0,56.3,10
+2359,Standard,Spain,Laptop,16,13.6,50.9,11
+2360,Basic,Italy,Tablet,56,47.4,50.8,39
+2361,Premium,Spain,Smartphone,69,58.2,50.6,46
+2362,Basic,Spain,Smartphone,65,63.8,58.9,39
+2363,Standard,United States,Smart TV,21,18.7,53.4,15
+2364,Premium,Canada,Smart TV,65,57.5,53.1,44
+2365,Basic,United States,Smartphone,58,50.8,52.6,38
+2366,Premium,United States,Smart TV,9,6.7,44.8,6
+2367,Basic,Canada,Tablet,31,22.9,44.4,18
+2368,Standard,United Kingdom,Laptop,68,56.3,49.7,46
+2369,Standard,Australia,Smartphone,11,9.7,53.1,9
+2370,Basic,Germany,Laptop,53,57.1,64.6,38
+2371,Premium,France,Smartphone,47,42.8,54.6,35
+2372,Basic,Brazil,Tablet,41,40.1,58.7,31
+2373,Standard,Mexico,Tablet,22,20.9,57.0,13
+2374,Premium,Spain,Tablet,9,6.9,46.2,7
+2375,Basic,Italy,Laptop,54,57.4,63.8,32
+2376,Premium,Spain,Smart TV,44,35.6,48.5,32
+2377,Basic,Spain,Tablet,46,43.1,56.3,31
+2378,Standard,United States,Smart TV,48,45.2,56.5,38
+2379,Standard,Canada,Smartphone,51,42.5,49.9,31
+2380,Basic,United States,Smartphone,12,14.1,70.3,8
+2381,Premium,United States,Laptop,9,7.5,50.3,5
+2382,Basic,Canada,Tablet,60,67.8,67.8,40
+2383,Standard,United Kingdom,Tablet,21,17.0,48.6,16
+2384,Premium,Australia,Smart TV,38,30.9,48.8,25
+2385,Basic,Germany,Tablet,9,7.0,46.3,6
+2386,Premium,France,Smartphone,20,17.7,53.1,14
+2387,Basic,Brazil,Smartphone,13,13.2,60.8,10
+2388,Standard,Mexico,Tablet,34,31.3,55.2,27
+2389,Standard,Spain,Smart TV,25,20.6,49.5,16
+2390,Basic,Italy,Smartphone,22,23.7,64.6,15
+2391,Premium,Spain,Tablet,43,39.6,55.2,25
+2392,Basic,Spain,Tablet,59,55.8,56.7,37
+2393,Standard,United States,Tablet,36,31.9,53.2,24
+2394,Premium,Canada,Smartphone,42,39.1,55.8,25
+2395,Basic,United States,Smart TV,45,45.7,60.9,30
+2396,Basic,United States,Smartphone,42,36.4,52.0,28
+2397,Basic,Canada,Smartphone,43,39.7,55.3,28
+2398,Standard,United Kingdom,Smart TV,56,59.0,63.3,37
+2399,Premium,Australia,Tablet,10,6.1,36.4,4
+2400,Basic,Germany,Laptop,45,42.1,56.1,30
+2401,Basic,France,Laptop,52,56.3,65.0,37
+2402,Premium,Brazil,Smartphone,39,40.0,61.6,26
+2403,Standard,Mexico,Laptop,42,37.7,53.9,25
+2404,Standard,Spain,Tablet,7,8.1,69.7,5
+2405,Basic,Italy,Smart TV,46,41.0,53.5,30
+2406,Premium,Spain,Smart TV,31,26.8,51.8,19
+2407,Standard,Spain,Smartphone,42,39.9,57.0,27
+2408,Basic,United States,Smartphone,82,72.7,53.2,49
+2409,Standard,Canada,Laptop,62,53.1,51.4,45
+2410,Premium,United States,Smartphone,74,79.8,64.7,46
+2411,Basic,United States,Smartphone,45,35.7,47.6,34
+2412,Premium,Canada,Smart TV,71,69.7,58.9,51
+2413,Standard,United Kingdom,Tablet,4,2.6,38.5,4
+2414,Basic,Australia,Smart TV,63,60.8,57.9,48
+2415,Standard,Germany,Smart TV,70,67.2,57.6,47
+2416,Premium,France,Tablet,21,17.2,49.1,11
+2417,Basic,Brazil,Smart TV,68,66.5,58.6,45
+2418,Standard,Mexico,Laptop,15,14.5,57.9,11
+2419,Premium,Spain,Smart TV,82,71.8,52.6,51
+2420,Basic,Italy,Laptop,30,24.7,49.4,21
+2421,Premium,Spain,Smart TV,51,54.1,63.6,31
+2422,Basic,Spain,Smart TV,50,45.9,55.1,36
+2423,Standard,United States,Laptop,24,22.4,56.1,16
+2424,Standard,Canada,Laptop,34,28.8,50.8,25
+2425,Basic,United States,Tablet,69,53.6,46.7,44
+2426,Premium,United States,Smartphone,66,58.2,52.9,42
+2427,Basic,Canada,Smartphone,67,59.3,53.1,44
+2428,Standard,United Kingdom,Tablet,26,26.0,60.1,17
+2429,Premium,Australia,Smartphone,33,28.2,51.2,19
+2430,Basic,Germany,Tablet,8,8.3,62.6,6
+2431,Premium,France,Smart TV,16,16.3,61.3,10
+2432,Basic,Brazil,Tablet,56,56.6,60.7,37
+2433,Standard,Mexico,Tablet,55,51.9,56.6,38
+2434,Standard,Spain,Smart TV,64,53.1,49.8,44
+2435,Basic,Italy,Smartphone,9,8.0,53.1,8
+2436,Premium,Spain,Smart TV,12,10.6,53.2,7
+2437,Basic,Spain,Smart TV,52,48.0,55.4,37
+2438,Standard,United States,Smart TV,88,86.5,58.9,49
+2439,Premium,Canada,Laptop,6,4.0,39.5,4
+2440,Basic,United States,Laptop,42,41.8,59.7,26
+2441,Premium,United States,Smartphone,52,45.3,52.3,33
+2442,Basic,Canada,Smartphone,49,43.9,53.8,35
+2443,Standard,United Kingdom,Laptop,23,27.1,70.8,18
+2444,Standard,Australia,Smartphone,39,33.6,51.7,25
+2445,Basic,Germany,Smartphone,16,13.4,50.4,12
+2446,Premium,France,Tablet,44,49.1,67.0,33
+2447,Basic,Brazil,Tablet,18,17.6,58.5,13
+2448,Standard,Mexico,Tablet,58,50.4,52.1,40
+2449,Premium,Spain,Smart TV,8,6.0,45.4,6
+2450,Basic,Italy,Smartphone,11,8.9,48.4,9
+2451,Premium,Spain,Tablet,59,56.5,57.4,47
+2452,Basic,Spain,Tablet,51,44.5,52.3,36
+2453,Standard,United States,Smartphone,50,45.8,54.9,34
+2454,Standard,Canada,Smartphone,55,46.0,50.2,35
+2455,Basic,United States,Tablet,23,16.6,43.3,15
+2456,Premium,United States,Smartphone,33,32.9,59.7,22
+2457,Basic,Canada,Tablet,57,58.1,61.2,38
+2458,Standard,United Kingdom,Smart TV,15,15.9,63.6,9
+2459,Premium,Australia,Smart TV,46,40.0,52.1,29
+2460,Basic,Germany,Smart TV,12,7.5,37.6,9
+2461,Premium,France,Laptop,9,10.3,68.7,7
+2462,Basic,Brazil,Smart TV,39,33.0,50.8,28
+2463,Standard,Mexico,Smart TV,49,42.3,51.8,36
+2464,Standard,Spain,Smartphone,27,21.0,46.7,16
+2465,Basic,Italy,Tablet,33,29.4,53.5,28
+2466,Premium,Spain,Laptop,58,58.1,60.1,42
+2467,Basic,Spain,Smartphone,43,34.2,47.7,31
+2468,Standard,United States,Smartphone,48,42.1,52.6,28
+2469,Premium,Canada,Laptop,63,57.9,55.2,40
+2470,Basic,United States,Tablet,78,74.5,57.3,49
+2471,Basic,United States,Smartphone,52,37.7,43.5,39
+2472,Basic,Canada,Tablet,45,44.0,58.6,31
+2473,Standard,United Kingdom,Laptop,31,28.6,55.5,19
+2474,Premium,Australia,Smart TV,15,16.7,66.9,11
+2475,Basic,Germany,Tablet,56,50.8,54.4,34
+2476,Basic,France,Tablet,22,23.5,64.0,15
+2477,Premium,Brazil,Laptop,70,75.4,64.6,44
+2478,Standard,Mexico,Tablet,31,24.1,46.5,23
+2479,Standard,Spain,Laptop,38,40.4,63.8,29
+2480,Basic,Italy,Laptop,39,34.1,52.5,22
+2481,Premium,Spain,Laptop,69,68.3,59.4,46
+2482,Standard,Spain,Laptop,72,64.2,53.5,46
+2483,Basic,United States,Laptop,16,17.4,65.3,10
+2484,Standard,Canada,Smart TV,51,51.0,60.0,36
+2485,Premium,United States,Tablet,11,12.5,68.4,9
+2486,Basic,United States,Smartphone,8,5.5,40.9,7
+2487,Premium,Canada,Smart TV,75,63.5,50.8,52
+2488,Standard,United Kingdom,Smartphone,76,71.4,56.4,51
+2489,Basic,Australia,Smartphone,69,62.1,54.0,44
+2490,Standard,Germany,Smart TV,9,6.1,40.8,7
+2491,Premium,France,Smartphone,86,81.5,56.8,50
+2492,Basic,Brazil,Laptop,43,44.8,62.5,27
+2493,Standard,Mexico,Smart TV,16,15.6,58.4,12
+2494,Premium,Spain,Smart TV,58,54.9,56.8,38
+2495,Basic,Italy,Laptop,39,39.9,61.3,23
+2496,Premium,Spain,Smart TV,72,73.8,61.5,47
+2497,Basic,Spain,Smart TV,37,27.2,44.2,22
+2498,Standard,United States,Laptop,72,66.9,55.7,47
+2499,Standard,Canada,Tablet,35,36.9,63.2,22
+2500,Basic,United States,Smart TV,39,36.1,55.5,30
